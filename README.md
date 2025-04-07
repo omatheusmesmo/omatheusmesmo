@@ -37,9 +37,27 @@ I'm a Systems Analyst at Neogrid with a strong focus on Java and frameworks like
 
 ---
 
+## 🌟 Open Source Contributions
+
+### [BuildCLI](https://github.com/BuildCLI/BuildCLI)
+**Description:** BuildCLI is a command-line tool (CLI) for managing and automating common tasks in Java project development.  https://buildcli.dev
+**License:** MIT  
+**Technologies:**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
+### [pt.quarkus.io](https://github.com/omatheusmesmo/pt.quarkus.io)
+**Description:** Brazilian Portuguese localization project for https://github.com/quarkusio/quarkusio.github.io  
+**License:** Apache License 2.0  
+**Technologies:**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
 ## 📂 Featured Repositories
 
-### [ListaDeComprasAPI](https://github.com/omatheusmesmo/ListaDeComprasAPI)
+### [ShoppMateAPI](https://github.com/omatheusmesmo/ShoppMateAPI)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -68,24 +86,6 @@ I'm a Systems Analyst at Neogrid with a strong focus on Java and frameworks like
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 🌟 Open Source Contributions
-
-### [BuildCLI](https://github.com/omatheusmesmo/BuildCLI)
-**Description:** BuildCLI is a command-line tool (CLI) for managing and automating common tasks in Java project development.  
-**License:** MIT  
-**Technologies:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### [pt.quarkus.io](https://github.com/omatheusmesmo/pt.quarkus.io)
-**Description:** Brazilian Portuguese localization project for https://github.com/quarkusio/quarkusio.github.io  
-**License:** Apache License 2.0  
-**Technologies:**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
