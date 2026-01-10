@@ -71,7 +71,7 @@ I'm a Systems Analyst at Neogrid with a strong focus on Java and frameworks like
 **License:** MIT  
 
 
-### [ListaDeComprasFront](https://github.com/omatheusmesmo/ListaDeComprasFront)
+### [ShoppMateFront](https://github.com/omatheusmesmo/ShoppMateFront) 
 **Description:** Frontend for the Shopping List API developed in Angular.  
 **Technologies:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
