@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Matheus Oliveira!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Software+Engineer+%7C+Java+%7C+Back-end;AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus;Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Software+Engineer+%7C+Java+%7C+Back-end;AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus;Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Lover-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
