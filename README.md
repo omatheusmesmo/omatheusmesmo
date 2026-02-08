@@ -5,9 +5,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1700&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus" alt="Typing SVG" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1900&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
