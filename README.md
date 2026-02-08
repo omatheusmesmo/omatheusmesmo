@@ -150,7 +150,7 @@ Contributing to the BuildCLI ecosystem | [My Contributions](https://github.com/B
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge)
+![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
 
 **Description:** Contributing to BuildCLI, a command-line tool for managing and automating common tasks in Java project development. See [buildcli.dev](https://buildcli.dev)
 
@@ -174,16 +174,16 @@ Brazilian Portuguese localization | [My Contributions](https://github.com/omathe
 
 ## 📝 Blog Posts
 
-### [Building Microservices with Spring Boot and RabbitMQ](#)
+### Building Microservices with Spring Boot and RabbitMQ
 *Coming Soon* - A deep dive into building distributed systems with message queuing
 
-### [JWT Authentication in Spring Boot: A Complete Guide](#)
+### JWT Authentication in Spring Boot: A Complete Guide
 *Coming Soon* - Implementing secure authentication with JWT tokens
 
-### [From Monolith to Microservices: My Journey](#)
+### From Monolith to Microservices: My Journey
 *Coming Soon* - Lessons learned in migrating to microservices architecture
 
-### [Contributing to Open Source: Getting Started](#)
+### Contributing to Open Source: Getting Started
 *Coming Soon* - Tips and experiences from contributing to OSS projects
 
 ---
