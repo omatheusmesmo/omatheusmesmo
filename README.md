@@ -1,180 +1,272 @@
 <div align="center">
 
-# 👋 Olá! Eu sou Matheus Oliveira
+# 👋 Hey there, I'm Matheus Oliveira!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+Java+%7C+Back-end;AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus;Web+Development+%7C+Open-Source" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Software+Engineer+%7C+Java+%7C+Back-end;AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus;Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-Lover-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20Certified-FF9900?style=flat-square&logo=amazon-aws" />
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheusmesmo)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.omatheusmesmo.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@omatheusmesmo.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omatheusmesmo)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
 
-## 💫 Sobre Mim
+## 💫 About Me
 
-Sou desenvolvedor de software apaixonado por tecnologia e por construir soluções robustas e escaláveis. Com experiência em arquitetura de sistemas e metodologias ágeis, acredito que o conhecimento compartilhado é uma ferramenta poderosa para o crescimento coletivo.
+I'm a software developer focused on building **high-performance, scalable, and cloud-ready applications**. With a solid foundation in the **Java** ecosystem and **Angular**, I'm dedicated to creating solutions that combine robust architecture with a seamless user experience.
 
-Meu foco principal está no desenvolvimento backend com **Java** e seu ecossistema, mas também trabalho com **Angular** e **Cloud Computing**. Sou entusiasta de **Open Source** e contribuo ativamente para projetos da comunidade.
+Currently, besides my work at **Act/BMW**, I'm an **active contributor in the Open Source community**, collaborating with projects like **Quarkus** and maintaining **BuildCLI**. As an **AWS Certified Cloud Practitioner**, I design and implement systems that make the most of cloud infrastructure.
 
-📧 **Entre em contato:** [hi@omatheusmesmo.dev](mailto:hi@omatheusmesmo.dev)
+My transition from music to technology brought me sharp analytical skills and a natural ability to communicate and work in teams — essential skills for agile environments. I'm always looking for challenging projects where I can apply technology to create real impact! 🚀
+
+📧 **Get in touch:** [hi@omatheusmesmo.dev](mailto:hi@omatheusmesmo.dev)
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Backend & Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+### 💻 Backend & Cloud Native
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🎨 Frontend
+<p>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+### 🗄️ Databases
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
+</p>
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### ☁️ Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### Messaging & Tools
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white)
+### 📨 Messaging & Integration
+<p>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_SQS-FF4F8B?style=for-the-badge&logo=amazon-sqs&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_SNS-FF9900?style=for-the-badge&logo=amazon-sns&logoColor=white" />
+</p>
 
+### 🔧 Tools & Others
+<p>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white" />
+<img src="https://img.shields.io/badge/Debezium-FF6600?style=for-the-badge&logo=debezium&logoColor=white" />
+</p>
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
 
-## 🚀 Projetos Pessoais
+## 🚀 My Projects
 
-### [ShoppMate](https://github.com/omatheusmesmo/ShoppMate)
-> 🛒 Full-stack smart shopping list management solution
+> Here are some projects I built from scratch. Each one represents a different technical challenge and unique learnings!
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-Solução completa para gerenciamento de listas de compras inteligentes. Permite organizar compras, gerenciar categorias e unidades personalizadas, e colaborar em listas compartilhadas. **5 ⭐ | 1 🍴**
+### 🛒 [ShoppMate](https://github.com/omatheusmesmo/ShoppMate)
+**Full-stack smart shopping list management**
 
-### [BuildCLI](https://github.com/omatheusmesmo/BuildCLI)
-> ⚡ Command-line tool for Java project automation
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+Complete solution for smart shopping list management with custom categories, measurement units, and real-time collaboration.
+
+⭐ 5 stars | 🍴 1 fork
+
+</td>
+<td width="50%">
+
+### 🏗️ [ecommerce-microservices](https://github.com/omatheusmesmo/ecommerce-microservices)
+**High-performance microservices with Quarkus**
+
+<p>
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" />
+<img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
+
+Cloud-native microservices architecture with Transactional Outbox, Debezium CDC, JWT Auth, and multi-database support. Monitoring with Grafana/Jaeger.
+
+⭐ 4 stars
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🎮 [SelfMat-NES-Emulator](https://github.com/omatheusmesmo/SelfMat-NES-Emulator)
+**Nintendo Entertainment System emulator**
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Emulation-000000?style=flat-square&logo=nintendo&logoColor=white" />
+</p>
+
+NES emulator built from scratch in Java (WIP). Replicating NES hardware in software to run classic games on modern platforms.
+
+⭐ 3 stars
+
+</td>
+<td width="50%">
+
+### ⚡ [BuildCLI](https://github.com/omatheusmesmo/BuildCLI)
+**Java project automation tool (Fork)**
+
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+</p>
+
+Personal fork of BuildCLI where I test features and actively contribute. CLI tool to automate tasks in Java projects.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+---
+
+## 🌟 Open Source Contributions
+
+> I believe in the power of Open Source! Here are some external projects where I've left my mark:
+
+### 🔥 Main Contributions
+
+<table>
+<tr>
+<td>
+
+#### [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI) ⭐ 156
+**Maintainer & Active Contributor**
+
+CLI tool for managing and automating tasks in Java projects. I contribute as a project maintainer.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-![CLI](https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-Ferramenta CLI para automatizar tarefas comuns no desenvolvimento de projetos Java. Gerencia dependências, builds, testes e muito mais.
+🔗 [51+ merged PRs](https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo+is%3Amerged)
 
-### [ecommerce-microservices](https://github.com/omatheusmesmo/ecommerce-microservices)
-> 🏗️ High-performance microservices architecture with Quarkus
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### [Quarkus](https://github.com/quarkusio/quarkus) ⭐ 14k+
+**Contributor**
+
+Kubernetes-native Java framework. I contributed with documentation and core improvements.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-Arquitetura de microserviços de alta performance usando Quarkus, Kafka e Debezium. Implementa Transactional Outbox para zero perda de eventos, autenticação JWT (ECC), e suporte multi-database. Monitoramento com Grafana/Jaeger. **4 ⭐**
+🔗 Main PRs:
+- [#48430](https://github.com/quarkusio/quarkus/pull/48430) - Javadoc for AdditionalClassLoaderResourcesBuildItem
+- [#47374](https://github.com/quarkusio/quarkus/pull/47374) - Javadoc for ApplicationInfoBuildItem (first PR! 🎉)
 
-### [SelfMat-NES-Emulator](https://github.com/omatheusmesmo/SelfMat-NES-Emulator)
-> 🎮 Nintendo Entertainment System emulator in Java
+</td>
+</tr>
+</table>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Emulator](https://img.shields.io/badge/Emulator-000000?style=flat-square&logo=nintendo&logoColor=white)
+### 📦 Other Contributions
 
-Emulador NES desenvolvido em Java (Work in Progress). O objetivo é replicar a funcionalidade do hardware NES em software, permitindo que jogos clássicos rodem em plataformas modernas. **3 ⭐**
-
----
-
-## 🌟 Contribuições Open Source
+- **[pt.quarkus.io](https://github.com/quarkusio/pt.quarkus.io)** - Brazilian Portuguese localization of the official Quarkus website
+- **[BuildCLI/website](https://github.com/BuildCLI/website)** ⭐ 4 - Official BuildCLI documentation
+- **[JNOSQL](https://github.com/eclipse/jnosql)** - Jakarta EE NoSQL framework
+- **[quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)** - Plugin for OpenAPI code generation
+- **[Jakarta Servlet](https://github.com/jakartaee/servlet)** - Jakarta Servlet specification
+- **[timeless](https://github.com/wellwelwel/timeless)** - Personal financial organization app
+- **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** - Resources and tools for Brazilian developers
+- **[RPA_FINANC](https://github.com/pedroohrique/RPA_FINANC)** - Financial process automation
 
 <div align="center">
-
-### Principais Projetos
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-#### [BuildCLI](https://github.com/BuildCLI/BuildCLI) ⭐ 156
-Ferramenta CLI para gerenciar e automatizar tarefas comuns em projetos Java. Contribuo ativamente como mantenedor do projeto.
-
-#### [Quarkus](https://github.com/quarkusio/quarkus)
-Framework Java nativo para Kubernetes otimizado para GraalVM e HotSpot.
-
-#### [pt.quarkus.io](https://github.com/quarkusio/pt.quarkus.io)
-Projeto de localização do site oficial do Quarkus para português brasileiro.
-
-#### [SelfMat-NES-Emulator](https://github.com/selfmat/SelfMat-NES-Emulator)
-Contribuições para emulador NES open source.
-
-#### [JNOSQL](https://github.com/eclipse/jnosql)
-Contribuições para o framework NoSQL do Jakarta EE.
-
-#### [timeless](https://github.com/timeless-project/timeless)
-Contribuições para projeto de gerenciamento de tempo.
-
-#### [quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)
-Plugin Quarkus para geração automática de código a partir de especificações OpenAPI.
-
-#### [Jakarta Servlet](https://github.com/jakartaee/servlet)
-Contribuições para a especificação Jakarta Servlet.
-
-#### [RPA_FINANC](https://github.com/pedroohrique/RPA_FINANC)
-Contribuições para automação de processos financeiros.
-
-#### [awesomeyou](https://github.com/wellwelwel/awesomeyou)
-Contribuições para projeto de recursos e ferramentas para desenvolvedores.
-
-#### [BuildCLI/website](https://github.com/BuildCLI/website) ⭐ 4
-Documentação oficial do BuildCLI. Contribuo com documentação e melhorias.
-
 ---
 
-## 📝 Últimos Posts no Blog
+## 📝 Latest Blog Posts
 
 <div align="center">
 
-| 📄 Título | 🔗 Link |
+| 📄 Title | 🔗 Link |
 |-----------|---------|
-| Open Source: The Definitive Guide to Start Contributing | [Ler](https://blog.omatheusmesmo.dev/posts/2026-02-07-open-source-the-definitive-guide-to-start-contributing/) |
-| Quarkus: The First Contact and Dev Mode | [Ler](https://blog.omatheusmesmo.dev/posts/2026-01-31-The-First-Contact-and-Dev-Mode/) |
-| Renaissance of Java | [Ler](https://blog.omatheusmesmo.dev/posts/2026-01-24-renaissance-of-java/) |
-| Você conhece o slow index e o fast index? | [Ler](https://blog.omatheusmesmo.dev/posts/2026-01-23-slow-fast-index/) |
-| Unit Tests in Java | [Ler](https://blog.omatheusmesmo.dev/posts/2026-01-23-unit-tests-java/) |
-| Vim/Neovim: Essential Guide | [Ler](https://blog.omatheusmesmo.dev/posts/2026-01-23-vim-neovim/) |
+| Open Source: The Definitive Guide to Start Contributing | [Read](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/) |
+| The First Contact and Quarkus Development Mode | [Read](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/) |
+| The Java Renaissance - From J2EE to Cloud Native | [Read](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/) |
+| Unit Tests in Java - Introduction | [Read](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/) |
+| Why Every Programmer Should Know Vim/Neovim | [Read](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/) |
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
 
-## 🎤 Talks & Eventos
+## 🎤 Talks & Events
 
-> Esta seção será preenchida em breve com minhas palestras e participações em eventos da comunidade tech.
+> This section will be filled soon with my talks and participation in tech community events.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 
 ---
 
@@ -182,19 +274,23 @@ Documentação oficial do BuildCLI. Contribuo com documentação e melhorias.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omatheusmesmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=omatheusmesmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusmesmo&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omatheusmesmo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omatheusmesmo&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusmesmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
 
 <div align="center">
 
-### 💭 Quote of the Day
+### 💭 Random Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -202,12 +298,20 @@ Documentação oficial do BuildCLI. Contribuo com documentação e melhorias.
 
 ### 👀 Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=omatheusmesmo&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=omatheusmesmo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚡ Fun Fact
+
+From music to code — I traded musical notes for lines of code and never looked back! 🎵➡️💻
 
 ---
 
-⭐ **Gostou do meu trabalho?** Considere deixar uma estrela nos meus repositórios!
+**💡 Open to collaboration and new challenges!**
 
-🤝 **Vamos conectar?** Sinta-se à vontade para me seguir ou entrar em contato!
+⭐ **Liked my work?** Consider starring my repositories!
+
+🤝 **Let's connect?** Feel free to follow me or reach out!
 
 </div>
