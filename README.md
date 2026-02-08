@@ -294,7 +294,7 @@ CLI tool for managing and automating tasks in Java projects. I contribute as a p
 
 ## 🎤 Talks & Events
 
-> This section will be filled soon with my talks and participation in tech community events.
+> 🎯 Coming soon! I'll be sharing my experiences at tech events and meetups here. Stay tuned!
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
