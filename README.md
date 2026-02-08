@@ -25,7 +25,7 @@
 
 I'm a software developer focused on building **high-performance, scalable, and cloud-ready applications**. With a solid foundation in the **Java** ecosystem and **Angular**, I'm dedicated to creating solutions that combine robust architecture with a seamless user experience.
 
-Currently, besides my work at **Act/BMW**, I'm an **active contributor in the Open Source community**, collaborating with projects like **Quarkus** and maintaining **BuildCLI**. As an **AWS Certified Cloud Practitioner**, I design and implement systems that make the most of cloud infrastructure.
+Currently, besides my work at **Act/BMW**, I'm an **active contributor in the Open Source community**, collaborating with major projects like **Jakarta EE**, **JNoSQL**, **Quarkus**, and **BuildCLI**. I also write about Java, cloud-native architectures, and open source on my [blog](https://blog.omatheusmesmo.dev), sharing knowledge and experiences with the community.
 
 My transition from music to technology brought me sharp analytical skills and a natural ability to communicate and work in teams — essential skills for agile environments. I'm always looking for challenging projects where I can apply technology to create real impact! 🚀
 
@@ -191,15 +191,33 @@ Personal fork of BuildCLI where I test features and actively contribute. CLI too
 <tr>
 <td>
 
-#### [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI) ⭐ 156
-**Maintainer & Active Contributor**
+#### [Jakarta EE](https://github.com/jakartaee) 🌐
+**Contributor to Jakarta Servlet Specification**
 
-CLI tool for managing and automating tasks in Java projects. I contribute as a project maintainer.
+Contributing to the evolution of one of the most important enterprise Java specifications.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-000000?style=flat-square&logo=eclipse&logoColor=white)
 
-🔗 [51+ merged PRs](https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo+is%3Amerged)
+🔗 **Repositories:**
+- [jakartaee/servlet](https://github.com/jakartaee/servlet) - Jakarta Servlet Specification
+- [jakartaee/specifications](https://github.com/jakartaee/specifications) - Jakarta EE Specifications
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+#### [JNoSQL](https://github.com/eclipse/jnosql) 📊
+**Contributor to Eclipse JNoSQL**
+
+Contributing to the Jakarta NoSQL framework that helps Java developers create scalable applications with NoSQL databases.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+
+🔗 [Eclipse JNoSQL Repository](https://github.com/eclipse/jnosql)
 
 </td>
 </tr>
@@ -221,15 +239,29 @@ Kubernetes-native Java framework. I contributed with documentation and core impr
 
 </td>
 </tr>
+
+<tr>
+<td>
+
+#### [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI) ⭐ 156
+**Maintainer & Active Contributor**
+
+CLI tool for managing and automating tasks in Java projects. I contribute as a project maintainer.
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+
+🔗 [51+ merged PRs](https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo+is%3Amerged)
+
+</td>
+</tr>
 </table>
 
 ### 📦 Other Contributions
 
 - **[pt.quarkus.io](https://github.com/quarkusio/pt.quarkus.io)** - Brazilian Portuguese localization of the official Quarkus website
 - **[BuildCLI/website](https://github.com/BuildCLI/website)** ⭐ 4 - Official BuildCLI documentation
-- **[JNOSQL](https://github.com/eclipse/jnosql)** - Jakarta EE NoSQL framework
 - **[quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)** - Plugin for OpenAPI code generation
-- **[Jakarta Servlet](https://github.com/jakartaee/servlet)** - Jakarta Servlet specification
 - **[timeless](https://github.com/wellwelwel/timeless)** - Personal financial organization app
 - **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** - Resources and tools for Brazilian developers
 - **[RPA_FINANC](https://github.com/pedroohrique/RPA_FINANC)** - Financial process automation
