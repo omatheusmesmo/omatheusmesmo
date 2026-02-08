@@ -2,7 +2,13 @@
 
 # 👋 Hey there, I'm Matheus Oliveira!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Software+Engineer+%7C+Java+%7C+Back-end;AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus;Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1700&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus" alt="Typing SVG" />
+  <br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1900&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Lover-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -11,7 +17,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheusmesmo)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.omatheusmesmo.dev)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.omatheusmesmo.dev/en/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@omatheusmesmo.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omatheusmesmo)
 
@@ -25,7 +31,7 @@
 
 I'm a software developer focused on building **high-performance, scalable, and cloud-ready applications**. With a solid foundation in the **Java** ecosystem and **Angular**, I'm dedicated to creating solutions that combine robust architecture with a seamless user experience.
 
-Currently, besides my work at **Act/BMW**, I'm an **active contributor in the Open Source community**, collaborating with major projects like **Jakarta EE**, **JNoSQL**, **Quarkus**, and **BuildCLI**. I also write about Java, cloud-native architectures, and open source on my [blog](https://blog.omatheusmesmo.dev), sharing knowledge and experiences with the community.
+Currently, besides my work at **Act/BMW**, I'm an **active contributor in the Open Source community**, collaborating with major projects like **Jakarta EE**, **JNoSQL**, **Quarkus**, and **BuildCLI**. I also write about Java, cloud-native architectures, and open source on my [blog](https://blog.omatheusmesmo.dev/en/), sharing knowledge and experiences with the community.
 
 My transition from music to technology brought me sharp analytical skills and a natural ability to communicate and work in teams — essential skills for agile environments. I'm always looking for challenging projects where I can apply technology to create real impact! 🚀
 
@@ -318,16 +324,19 @@ CLI tool to automate tasks in Java projects. Active maintainer and contributor w
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omatheusmesmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omatheusmesmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omatheusmesmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=omatheusmesmo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omatheusmesmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
