@@ -14,9 +14,6 @@
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.omatheusmesmo.dev/en/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@omatheusmesmo.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omatheusmesmo)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 ---
@@ -97,7 +94,7 @@ My transition from music to technology brought me sharp analytical skills and a 
 * **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** — An initiative highlighting the human side of Brazilian Open Source through a fair impact-scoring system &nbsp;&nbsp; 🔗 [My PRs](https://github.com/wellwelwel/awesomeyou/pulls?q=is%3Apr+author%3Aomatheusmesmo)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
 </div>
 
 ---
@@ -122,7 +119,7 @@ My transition from music to technology brought me sharp analytical skills and a 
   Essential Vim/Neovim skills that every developer should master.
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
@@ -132,7 +129,7 @@ My transition from music to technology brought me sharp analytical skills and a 
 > 🎯 Coming soon! I'll be sharing my experiences at tech events and meetups here. Stay tuned!
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
@@ -214,7 +211,7 @@ CLI tool to automate tasks in Java projects. Active maintainer and contributor w
 </table>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
@@ -289,7 +286,7 @@ CLI tool to automate tasks in Java projects. Active maintainer and contributor w
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 </div>
 
 ---
@@ -327,7 +324,7 @@ CLI tool to automate tasks in Java projects. Active maintainer and contributor w
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omatheusmesmo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ### ⚡ Fun Fact
 
