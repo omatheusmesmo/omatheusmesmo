@@ -10,12 +10,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-Lover-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20Certified-FF9900?style=flat-square&logo=amazon-aws" />
-</p>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheusmesmo)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.omatheusmesmo.dev/en/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@omatheusmesmo.dev)
@@ -38,99 +32,72 @@ My transition from music to technology brought me sharp analytical skills and a 
 📧 **Get in touch:** [hi@omatheusmesmo.dev](mailto:hi@omatheusmesmo.dev)
 
 ---
-
 ## 🌟 Open Source Contributions
 
 > I believe in the power of Open Source! Here are some external projects where I've left my mark:
 
 ### 🔥 Main Contributions
 
-<table>
-<tr>
-<td>
-
-#### [Jakarta EE](https://github.com/jakartaee) 🌐
-**Contributor to Jakarta Servlet Specification**
-
-Contributing to the evolution of one of the most important enterprise Java specifications.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Jakarta EE](https://img.shields.io/badge/Jakarta_EE-000000?style=flat-square&logo=eclipse&logoColor=white)
-
-🔗 **Main PRs:**
-- [#973](https://github.com/jakartaee/servlet/pull/973) ✅ Improve HttpUpgradeHandler initialization validation in TCK
-- [#974](https://github.com/jakartaee/servlet/pull/974) 🔄 Add TCK tests to verify filter processing after upgrade
-
-**Repositories:**
-- [jakartaee/servlet](https://github.com/jakartaee/servlet) - Jakarta Servlet Specification
-- [jakartaee/specifications](https://github.com/jakartaee/specifications) - Jakarta EE Specifications
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### [JNoSQL](https://github.com/JNOSQL/jnosql.github.io) 📊
-**Contributor to JNoSQL Website**
-
-Contributing to the Jakarta NoSQL framework that helps Java developers create scalable applications with NoSQL databases.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-
-🔗 **Main PR:**
-- [#85](https://github.com/JNOSQL/jnosql.github.io/pull/85) ✅ Restore theme assets and add local development environment
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### [Quarkus](https://github.com/quarkusio/quarkus) ⭐ 14k+
-**Contributor**
-
-Kubernetes-native Java framework. I contributed with documentation and core improvements.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
-
-🔗 **Main PRs:**
-- [#48430](https://github.com/quarkusio/quarkus/pull/48430) ✅ Javadoc for AdditionalClassLoaderResourcesBuildItem
-- [#47374](https://github.com/quarkusio/quarkus/pull/47374) ✅ Javadoc for ApplicationInfoBuildItem (first PR! 🎉)
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-#### [BuildCLI/BuildCLI](https://github.com/BuildCLI/BuildCLI) ⭐ 156
-**Maintainer & Active Contributor**
-
-CLI tool for managing and automating tasks in Java projects. I contribute as a project maintainer.
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-
-🔗 [51+ merged PRs](https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo+is%3Amerged)
-
-</td>
-</tr>
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>
+        <a href="https://github.com/jakartaee/servlet">Jakarta Servlet</a> 🌐 
+        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/jakartaee/servlet?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/jakartaee/servlet?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+      </h4>
+      <p>Evolution of the <b>Jakarta Servlet Specification</b>.</p>
+      <p>
+        🔗 <b>My PRs:</b> <a href="https://github.com/jakartaee/servlet/pull/973">#973</a>, <a href="https://github.com/jakartaee/servlet/pull/974">#974</a> | 
+        <a href="https://github.com/jakartaee/servlet/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>
+        <a href="https://github.com/quarkusio/quarkus">Quarkus</a> 🚀 
+        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/quarkusio/quarkus?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/quarkusio/quarkus?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+      </h4>
+      <p>Kubernetes-native Java framework. Core & Docs.</p>
+      <p>
+        🔗 <b>My PRs:</b> <a href="https://github.com/quarkusio/quarkus/pull/48430">#48430</a>, <a href="https://github.com/quarkusio/quarkus/pull/47374">#47374</a> | 
+        <a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>
+        <a href="https://github.com/BuildCLI/BuildCLI">BuildCLI</a> 🛠️ 
+        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/BuildCLI/BuildCLI?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/BuildCLI/BuildCLI?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+      </h4>
+      <p><b>Maintainer</b>. Task automation tool for Java projects.</p>
+      <p>🔗 <b>My PRs:</b> <a href="https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo">51+ merged PRs</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>
+        <a href="https://github.com/JNOSQL/jnosql.github.io">JNoSQL</a> 📊 
+        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/JNOSQL/jnosql.github.io?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/JNOSQL/jnosql.github.io?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
+      </h4>
+      <p>Jakarta NoSQL framework for scalable Java apps.</p>
+      <p>🔗 <b>My PRs:</b> <a href="https://github.com/JNOSQL/jnosql.github.io/pulls?q=is%3Apr+author%3Aomatheusmesmo">#85 & others</a></p>
+    </td>
+  </tr>
 </table>
 
-### 📦 Other Contributions
+### 📦 Ecosystem & Other Contributions
 
-- **[pt.quarkus.io](https://github.com/quarkusio/pt.quarkus.io)** - Brazilian Portuguese localization of the official Quarkus website
-- **[BuildCLI/website](https://github.com/BuildCLI/website)** ⭐ 4 - Official BuildCLI documentation
-- **[quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)** - Plugin for OpenAPI code generation
-- **[timeless](https://github.com/wellwelwel/timeless)** - Personal financial organization app
-- **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** - Resources and tools for Brazilian developers
-- **[RPA_FINANC](https://github.com/pedroohrique/RPA_FINANC)** - Financial process automation
+* **[pt.quarkus.io](https://github.com/quarkusio/pt.quarkus.io)** — Brazilian Portuguese localization of the official Quarkus website &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkusio/pt.quarkus.io/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)** — Plugin for OpenAPI code generation &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkiverse/quarkus-openapi-generator/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[BuildCLI/website](https://github.com/BuildCLI/website)** — Official BuildCLI documentation &nbsp;&nbsp; 🔗 [My PRs](https://github.com/BuildCLI/website/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[timeless](https://github.com/wellwelwel/timeless)** — Personal financial organization app &nbsp;&nbsp; 🔗 [My PRs](https://github.com/wellwelwel/timeless/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[RPA_FINANC](https://github.com/pedroohrique/RPA_FINANC)** — Financial process automation &nbsp;&nbsp; 🔗 [My PRs](https://github.com/pedroohrique/RPA_FINANC/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** — An initiative highlighting the human side of Brazilian Open Source through a fair impact-scoring system &nbsp;&nbsp; 🔗 [My PRs](https://github.com/wellwelwel/awesomeyou/pulls?q=is%3Apr+author%3Aomatheusmesmo)
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
