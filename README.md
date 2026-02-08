@@ -134,6 +134,9 @@ Full-featured e-commerce application using microservices architecture with Sprin
 ### [SelfMat-NES-Emulator](https://github.com/omatheusmesmo/SelfMat-NES-Emulator)
 Nintendo Entertainment System (NES) emulator project. An exploration into low-level programming and computer architecture.
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+
 **My Contributions:**
 - CPU emulation
 - PPU (graphics) implementation
@@ -193,15 +196,15 @@ Brazilian Portuguese localization for the official Quarkus framework documentati
 
 ---
 
-## 📝 Blog Posts
+## 📝 Blog & Writing
 
-I occasionally write about software development, open-source, and technology:
+I share my experiences and insights about software development, open-source, and technology:
 
-- **[Exploring Microservices Architecture with Spring Boot](https://medium.com/@matheusoliveiradev1)** - Deep dive into building scalable microservices
-- **[Getting Started with BuildCLI](https://buildcli.dev/docs)** - Contributing to the BuildCLI documentation
-- **[My Journey into Open Source](https://medium.com/@matheusoliveiradev1)** - Lessons learned from contributing to open-source projects
+- **Medium:** Writing about microservices, Java development, and open-source contributions
+- **BuildCLI Docs:** Contributing to [BuildCLI documentation](https://buildcli.dev/docs) and guides
+- **Open Source Reflections:** Sharing lessons learned from contributing to open-source projects
 
-*Visit my [Medium profile](https://medium.com/@matheusoliveiradev1) for more articles.*
+*Follow me on [Medium](https://medium.com/@matheusoliveiradev1) for technical articles and tutorials.*
 
 ---
 
