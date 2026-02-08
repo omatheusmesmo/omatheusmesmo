@@ -39,13 +39,6 @@ I'm a Systems Analyst at Neogrid with a strong focus on Java and frameworks like
 
 ## 🌟 Open Source Contributions
 
-### [BuildCLI](https://github.com/BuildCLI/BuildCLI)
-**Description:** BuildCLI is a command-line tool (CLI) for managing and automating common tasks in Java project development. See  https://buildcli.dev  
-**License:** MIT  
-**Technologies:**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
 ### [pt.quarkus.io](https://github.com/omatheusmesmo/pt.quarkus.io)
 **Description:** Brazilian Portuguese localization project for https://github.com/quarkusio/quarkusio.github.io  
 **License:** Apache License 2.0  
