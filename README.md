@@ -39,11 +39,13 @@ I'm a Systems Analyst at Neogrid with a strong focus on Java and frameworks like
 
 ## 📝 Blog Posts
 
-- 📚 [The definitive guide to open source contribution](#) - A comprehensive guide to making meaningful contributions to open source projects
-- 🚀 [First contact and the Quarkus development mode](#) - Getting started with Quarkus and its powerful development features
-- ☕ [The Java renaissance: from J2EE to cloud-native](#) - Exploring Java's evolution from enterprise to modern cloud-native applications
-- ✅ [Unit tests in Java](#) - Best practices and techniques for writing effective unit tests in Java
-- ⌨️ [Vim, Neovim, and me](#) - My journey and setup with Vim and Neovim for efficient development
+*Coming soon! Here are some topics I'm planning to write about:*
+
+- 📚 The definitive guide to open source contribution - A comprehensive guide to making meaningful contributions to open source projects
+- 🚀 First contact and the Quarkus development mode - Getting started with Quarkus and its powerful development features
+- ☕ The Java renaissance: from J2EE to cloud-native - Exploring Java's evolution from enterprise to modern cloud-native applications
+- ✅ Unit tests in Java - Best practices and techniques for writing effective unit tests in Java
+- ⌨️ Vim, Neovim, and me - My journey and setup with Vim and Neovim for efficient development
 
 ---
 
