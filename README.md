@@ -104,13 +104,13 @@ Shopping list management system with Java, Spring Boot, and Angular frontend.
 ---
 
 ### ⚙️ [BuildCLI](https://github.com/omatheusmesmo/BuildCLI)
-Command-line tool for Java project automation and management | [Contributions](https://github.com/omatheusmesmo/BuildCLI/commits?author=omatheusmesmo)
+Command-line tool for Java project automation and management (Personal Fork) | [Contributions](https://github.com/omatheusmesmo/BuildCLI/commits?author=omatheusmesmo)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![CLI](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-**Description:** BuildCLI is a powerful command-line interface for automating common tasks in Java project development. Visit [buildcli.dev](https://buildcli.dev) for more information.
+**Description:** Personal fork and development of BuildCLI, a powerful command-line interface for automating common tasks in Java project development. Visit [buildcli.dev](https://buildcli.dev) for more information.
 
 **License:** MIT
 
@@ -145,14 +145,14 @@ Nintendo Entertainment System emulator project | [Contributions](https://github.
 
 ## 🌟 Open Source Contributions
 
-### [BuildCLI](https://github.com/BuildCLI/BuildCLI)
-Contributing to the BuildCLI ecosystem | [My Contributions](https://github.com/BuildCLI/BuildCLI/commits?author=omatheusmesmo)
+### [BuildCLI Organization](https://github.com/BuildCLI/BuildCLI)
+Contributing to the upstream BuildCLI ecosystem | [My Contributions](https://github.com/BuildCLI/BuildCLI/commits?author=omatheusmesmo)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-red?style=for-the-badge)
 
-**Description:** Contributing to BuildCLI, a command-line tool for managing and automating common tasks in Java project development. See [buildcli.dev](https://buildcli.dev)
+**Description:** Contributing to the upstream BuildCLI project, a command-line tool for managing and automating common tasks in Java project development. See [buildcli.dev](https://buildcli.dev)
 
 **License:** MIT
 
