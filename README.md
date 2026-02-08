@@ -129,6 +129,41 @@ CLI tool for managing and automating tasks in Java projects. I contribute as a p
 
 ---
 
+## 📝 Latest Blog Posts
+
+> Writing about Java, cloud-native architectures, and open source
+
+- **[Open Source: The Definitive Guide to Start Contributing](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)**  
+  The digital world runs on Open Source. Discover how to get hands-on and start contributing to the projects that power the planet.
+
+- **[The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)**  
+  Understanding Quarkus development mode and how it enhances your development workflow.
+
+- **[The Java Renaissance - From J2EE to Cloud Native](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)**  
+  Exploring Java's evolution from enterprise monoliths to modern cloud-native architectures.
+
+- **[Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)**  
+  A practical guide to writing effective unit tests in Java.
+
+- **[Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)**  
+  Essential Vim/Neovim skills that every developer should master.
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+---
+
+## 🎤 Talks & Events
+
+> 🎯 Coming soon! I'll be sharing my experiences at tech events and meetups here. Stay tuned!
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+---
+
 ## 🚀 My Projects
 
 > Here are some projects I built from scratch. Each one represents a different technical challenge and unique learnings!
@@ -272,41 +307,6 @@ CLI tool to automate tasks in Java projects. Active maintainer and contributor w
 </p>
 
 </div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-> Writing about Java, cloud-native architectures, and open source
-
-- 📄 **[Open Source: The Definitive Guide to Start Contributing](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)**  
-  The digital world runs on Open Source. Discover how to get hands-on and start contributing to the projects that power the planet.
-
-- 📄 **[The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)**  
-  Understanding Quarkus development mode and how it enhances your development workflow.
-
-- 📄 **[The Java Renaissance - From J2EE to Cloud Native](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)**  
-  Exploring Java's evolution from enterprise monoliths to modern cloud-native architectures.
-
-- 📄 **[Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)**  
-  A practical guide to writing effective unit tests in Java.
-
-- 📄 **[Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)**  
-  Essential Vim/Neovim skills that every developer should master.
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
----
-
-## 🎤 Talks & Events
-
-> 🎯 Coming soon! I'll be sharing my experiences at tech events and meetups here. Stay tuned!
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
