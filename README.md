@@ -104,29 +104,29 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/posts/quarkus-oracle-converged-database-json/)**  
+- **[SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/en/posts/quarkus-oracle-converged-database-json/)**  
   Discover the power of Oracle's converged database: how to persist and query native JSON documents using Quarkus and Hibernate Panache without needing a separate NoSQL database.
 
-- **[Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/posts/quarkus-connect-oracle-autonomous-db-mtls/)**  
+- **[Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)**  
   Learn how to connect Quarkus to Oracle Autonomous Database using mTLS Wallet authentication in OCI's Always Free tier.
 
-- **[Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)**  
+- **[Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)**  
   A step-by-step guide to creating your Oracle Cloud Free Tier account and securing 24GB of RAM and free databases forever.
 
-- **[Quarkus Dependency Injection: The Ultimate Guide for Spring Developers](https://blog.omatheusmesmo.dev/posts/mastering-dependency-injection-configuration-quarkus/)**  
+- **[Quarkus Dependency Injection: The Ultimate Guide for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/mastering-dependency-injection-configuration-quarkus/)**  
   Understand how Quarkus reinvented Dependency Injection with ArC: zero runtime reflection, instant startup, and flexible configuration.
 
-- **[How to Start Contributing to Open Source: The Definitive Guide](https://blog.omatheusmesmo.dev/posts/definitive-guide-to-open-source-contribution/)**  
+- **[How to Start Contributing to Open Source: The Definitive Guide](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)**  
   The digital world runs on Open Source. Discover how to get hands-on and start contributing to the projects that power the planet.
 
 <details>
 <summary>📂 <b>View all posts (5 more)</b></summary>
 
-- [The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/posts/first-contact-and-the-quarkus-development-mode/)
-- [The Java Renaissance: From J2EE to Cloud Native with Quarkus](https://blog.omatheusmesmo.dev/posts/the-java-renaissance-from-j2ee-to-cloud-native/)
-- [Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/posts/unit-tests-java/)
-- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/posts/vim-neovim/)
-- [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/posts/slow-fast-index/)
+- [The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)
+- [The Java Renaissance: From J2EE to Cloud Native with Quarkus](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)
+- [Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)
+- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
+- [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/en/posts/slow-fast-index/)
 </details>
 
 <!-- BLOG-POST-LIST:END -->
