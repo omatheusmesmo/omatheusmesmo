@@ -137,7 +137,11 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 ## 🎤 Talks & Events
 
-> 🎯 Coming soon! I'll be sharing my experiences at tech events and meetups here. Stay tuned!
+> 🎯 Sharing insights and experiences at tech events and meetups.
+
+- **September, 2025** - The Developers Conference: *Open-Source: Standing out in your career through code (Mentorship)*
+- **March, 2025** - SouJava JUG: *BuildCLI: An Open-Source project worth knowing*
+- **March, 2025** - BuildCLI Discord: *New Member Onboarding Meeting*
 
 <div align="center">
 
