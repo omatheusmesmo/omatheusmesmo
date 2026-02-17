@@ -98,11 +98,11 @@ My transition from music to technology brought me sharp analytical skills and a 
 </div>
 
 ---
-
 ## 📝 Latest Blog Posts
 
 > Writing about Java, cloud-native architectures, and open source
 
+<!-- BLOG-POST-LIST:START -->
 - **[Open Source: The Definitive Guide to Start Contributing](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)**  
   The digital world runs on Open Source. Discover how to get hands-on and start contributing to the projects that power the planet.
 
@@ -117,7 +117,7 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 - **[Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)**  
   Essential Vim/Neovim skills that every developer should master.
-
+<!-- BLOG-POST-LIST:END -->
 <div align="center">
 
 </div>
