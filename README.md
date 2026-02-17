@@ -103,20 +103,31 @@ My transition from music to technology brought me sharp analytical skills and a 
 > Writing about Java, cloud-native architectures, and open source
 
 <!-- BLOG-POST-LIST:START -->
-- **[Open Source: The Definitive Guide to Start Contributing](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)**  
+
+- **[Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)**  
+  Learn how to connect Quarkus to Oracle Autonomous Database using mTLS Wallet authentication in OCI
+
+- **[Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)**  
+  A step-by-step guide to creating your Oracle Cloud Free Tier account and securing 24GB of RAM and free databases forever.
+
+- **[Quarkus Dependency Injection: The Ultimate Guide for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/mastering-dependency-injection-configuration-quarkus/)**  
+  Understand how Quarkus reinvented Dependency Injection with ArC: zero runtime reflection, instant startup, and flexible configuration.
+
+- **[How to Start Contributing to Open Source: The Definitive Guide](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)**  
   The digital world runs on Open Source. Discover how to get hands-on and start contributing to the projects that power the planet.
 
 - **[The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)**  
-  Understanding Quarkus development mode and how it enhances your development workflow.
+  A hands-on first contact: building your first API and discovering why Quarkus Dev Mode is a game changer for Spring developers.
 
-- **[The Java Renaissance - From J2EE to Cloud Native](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)**  
-  Exploring Java's evolution from enterprise monoliths to modern cloud-native architectures.
+<details>
+<summary>📂 <b>View all posts (4 more)</b></summary>
 
-- **[Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)**  
-  A practical guide to writing effective unit tests in Java.
+- [The Java Renaissance: From J2EE to Cloud Native with Quarkus](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)
+- [Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)
+- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
+- [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/en/posts/slow-fast-index/)
+</details>
 
-- **[Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)**  
-  Essential Vim/Neovim skills that every developer should master.
 <!-- BLOG-POST-LIST:END -->
 <div align="center">
 
