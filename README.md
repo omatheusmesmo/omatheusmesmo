@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[RESTful APIs with Quarkus: Use Jakarta REST and Quarkus REST for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/quarkus-restful-apis-jakarta-rest-spring-developers-guide/)**  
+  A complete guide for Spring developers on RESTful APIs in Quarkus. Learn about the Jakarta REST specification, the Quarkus REST implementation, and how to build high-performance endpoints.
+
 - **[OCI Object Storage: Configure file upload with Quarkus on Always Free](https://blog.omatheusmesmo.dev/en/posts/oci-object-storage-file-upload-quarkus-always-free/)**  
   Learn how to configure your Quarkus application to use OCI Object Storage. Leverage Always Free's 20GB storage and 10TB bandwidth to scale your media with PARs.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)**  
   Learn how to connect Quarkus to Oracle Autonomous Database using mTLS Wallet authentication in OCI's Always Free tier.
 
-- **[Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)**  
-  A step-by-step guide to creating your Oracle Cloud Free Tier account and securing 24GB of RAM and free databases forever.
-
 <details>
-<summary>📂 <b>View all posts (7 more)</b></summary>
+<summary>📂 <b>View all posts (8 more)</b></summary>
 
+- [Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)
 - [Quarkus Dependency Injection: The Ultimate Guide for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/mastering-dependency-injection-configuration-quarkus/)
 - [How to Start Contributing to Open Source: The Definitive Guide](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)
 - [The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)
