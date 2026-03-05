@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Guide to the First IT Opportunity and How to Develop Your Career](https://blog.omatheusmesmo.dev/en/posts/first-it-job-and-how-to-develop-career-guide/)**  
+  Looking for the 'keyboard shortcut' to enter or level up in IT? Check out real tips on networking, open source, and personal marketing to accelerate your career.
+
 - **[RESTful APIs with Quarkus: Use Jakarta REST and Quarkus REST for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/quarkus-restful-apis-jakarta-rest-spring-developers-guide/)**  
   A complete guide for Spring developers on RESTful APIs in Quarkus. Learn about the Jakarta REST specification, the Quarkus REST implementation, and how to build high-performance endpoints.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/en/posts/quarkus-oracle-converged-database-json/)**  
   Discover the power of Oracle's converged database: how to persist and query native JSON documents using Quarkus and Hibernate Panache without needing a separate NoSQL database.
 
-- **[Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)**  
-  Learn how to connect Quarkus to Oracle Autonomous Database using mTLS Wallet authentication in OCI's Always Free tier.
-
 <details>
-<summary>📂 <b>View all posts (8 more)</b></summary>
+<summary>📂 <b>View all posts (9 more)</b></summary>
 
+- [Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)
 - [Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)
 - [Quarkus Dependency Injection: The Ultimate Guide for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/mastering-dependency-injection-configuration-quarkus/)
 - [How to Start Contributing to Open Source: The Definitive Guide](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)
