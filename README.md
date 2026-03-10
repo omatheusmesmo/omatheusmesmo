@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)**  
+  It's MAR 10 Day! In Java 25 (LTS), the Garbage Collector has become an elite speedrunner. Understand the engineering behind Generational ZGC, Compact Object Headers, and how to tune your JVM for maximum performance.
+
 - **[Guide to the First IT Opportunity and How to Develop Your Career](https://blog.omatheusmesmo.dev/en/posts/first-it-job-and-how-to-develop-career-guide/)**  
   Looking for the 'keyboard shortcut' to enter or level up in IT? Check out real tips on networking, open source, and personal marketing to accelerate your career.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Zero Trust in Practice: Protecting Secrets with OCI Vault and Quarkus](https://blog.omatheusmesmo.dev/en/posts/zero-trust-vault-oci-quarkus/)**  
   Upgrade your security to Zero Trust. Learn how to use OCI Vault and Hardware Security Modules (HSM) to protect your Quarkus application's database secrets.
 
-- **[SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/en/posts/quarkus-oracle-converged-database-json/)**  
-  Discover the power of Oracle's converged database: how to persist and query native JSON documents using Quarkus and Hibernate Panache without needing a separate NoSQL database.
-
 <details>
-<summary>📂 <b>View all posts (9 more)</b></summary>
+<summary>📂 <b>View all posts (10 more)</b></summary>
 
+- [SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/en/posts/quarkus-oracle-converged-database-json/)
 - [Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)
 - [Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)
 - [Quarkus Dependency Injection: The Ultimate Guide for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/mastering-dependency-injection-configuration-quarkus/)
