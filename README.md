@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)**  
+  Ditch the infinite 'if-else' blocks! Learn how to ensure data integrity across all layers using Bean Validation 3.1. A complete guide on DTOs, custom rules, method validation, and standalone usage.
+
 - **[Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)**  
   It's MAR 10 Day! In Java 25 (LTS), the Garbage Collector has become an elite speedrunner. Understand the engineering behind Generational ZGC, Compact Object Headers, and how to tune your JVM for maximum performance.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[OCI Object Storage: Configure file upload with Quarkus on Always Free](https://blog.omatheusmesmo.dev/en/posts/oci-object-storage-file-upload-quarkus-always-free/)**  
   Learn how to configure your Quarkus application to use OCI Object Storage. Leverage Always Free's 20GB storage and 10TB bandwidth to scale your media with PARs.
 
-- **[Zero Trust in Practice: Protecting Secrets with OCI Vault and Quarkus](https://blog.omatheusmesmo.dev/en/posts/zero-trust-vault-oci-quarkus/)**  
-  Upgrade your security to Zero Trust. Learn how to use OCI Vault and Hardware Security Modules (HSM) to protect your Quarkus application's database secrets.
-
 <details>
-<summary>📂 <b>View all posts (10 more)</b></summary>
+<summary>📂 <b>View all posts (11 more)</b></summary>
 
+- [Zero Trust in Practice: Protecting Secrets with OCI Vault and Quarkus](https://blog.omatheusmesmo.dev/en/posts/zero-trust-vault-oci-quarkus/)
 - [SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/en/posts/quarkus-oracle-converged-database-json/)
 - [Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)
 - [Oracle Cloud Free Tier: How to Get 24GB RAM and Database Free Forever](https://blog.omatheusmesmo.dev/en/posts/oracle-cloud-free-tier-24gb-ram-free-forever/)
