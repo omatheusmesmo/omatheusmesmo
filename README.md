@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)**  
+  Top reasons why developers choose Linux: native tools, performance, security, and parity with production environments.
+
 - **[Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)**  
   Ditch the infinite 'if-else' blocks! Learn how to ensure data integrity across all layers using Bean Validation 3.1. A complete guide on DTOs, custom rules, method validation, and standalone usage.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[RESTful APIs with Quarkus: Use Jakarta REST and Quarkus REST for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/quarkus-restful-apis-jakarta-rest-spring-developers-guide/)**  
   A complete guide for Spring developers on RESTful APIs in Quarkus. Learn about the Jakarta REST specification, the Quarkus REST implementation, and how to build high-performance endpoints.
 
-- **[OCI Object Storage: Configure file upload with Quarkus on Always Free](https://blog.omatheusmesmo.dev/en/posts/oci-object-storage-file-upload-quarkus-always-free/)**  
-  Learn how to configure your Quarkus application to use OCI Object Storage. Leverage Always Free's 20GB storage and 10TB bandwidth to scale your media with PARs.
-
 <details>
-<summary>📂 <b>View all posts (11 more)</b></summary>
+<summary>📂 <b>View all posts (12 more)</b></summary>
 
+- [OCI Object Storage: Configure file upload with Quarkus on Always Free](https://blog.omatheusmesmo.dev/en/posts/oci-object-storage-file-upload-quarkus-always-free/)
 - [Zero Trust in Practice: Protecting Secrets with OCI Vault and Quarkus](https://blog.omatheusmesmo.dev/en/posts/zero-trust-vault-oci-quarkus/)
 - [SQL or NoSQL? Why Not Both? Using Oracle's Converged Database with Quarkus](https://blog.omatheusmesmo.dev/en/posts/quarkus-oracle-converged-database-json/)
 - [Quarkus + Oracle Autonomous DB: Building a Secure mTLS Connection](https://blog.omatheusmesmo.dev/en/posts/quarkus-connect-oracle-autonomous-db-mtls/)
