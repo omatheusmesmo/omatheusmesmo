@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)**  
+  I built the same AI app with LangChain4j, Spring AI, and Quarkus LangChain4j. One of them took 92 lines. The others took 192 and 180.
+
 - **[Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)**  
   Contributing to open source doesn't have to be scary. A true story of how interacting with the Quarkus community led to a contribution to a newly launched project in less than 48 hours.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)**  
   Ditch the infinite 'if-else' blocks! Learn how to ensure data integrity across all layers using Bean Validation 3.1. A complete guide on DTOs, custom rules, method validation, and standalone usage.
 
-- **[Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)**  
-  It's MAR 10 Day! In Java 25 (LTS), the Garbage Collector has become an elite speedrunner. Understand the engineering behind Generational ZGC, Compact Object Headers, and how to tune your JVM for maximum performance.
-
 <details>
-<summary>📂 <b>View all posts (14 more)</b></summary>
+<summary>📂 <b>View all posts (15 more)</b></summary>
 
+- [Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)
 - [Guide to the First IT Opportunity and How to Develop Your Career](https://blog.omatheusmesmo.dev/en/posts/first-it-job-and-how-to-develop-career-guide/)
 - [RESTful APIs with Quarkus: Use Jakarta REST and Quarkus REST for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/quarkus-restful-apis-jakarta-rest-spring-developers-guide/)
 - [OCI Object Storage: Configure file upload with Quarkus on Always Free](https://blog.omatheusmesmo.dev/en/posts/oci-object-storage-file-upload-quarkus-always-free/)
