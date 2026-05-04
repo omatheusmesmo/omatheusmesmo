@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)**  
+  What does a 3-second cold start cost you in production? SLO breaches on every scale-from-zero event and 19x more cloud spend on memory. I benchmarked a real Quarkus app in containers and the numbers make the case.
+
 - **[Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)**  
   I built the same AI app with LangChain4j, Spring AI, and Quarkus LangChain4j. One of them took 92 lines. The others took 192 and 180.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)**  
   Top reasons why developers choose Linux: native tools, performance, security, and parity with production environments.
 
-- **[Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)**  
-  Ditch the infinite 'if-else' blocks! Learn how to ensure data integrity across all layers using Bean Validation 3.1. A complete guide on DTOs, custom rules, method validation, and standalone usage.
-
 <details>
-<summary>📂 <b>View all posts (15 more)</b></summary>
+<summary>📂 <b>View all posts (16 more)</b></summary>
 
+- [Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)
 - [Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)
 - [Guide to the First IT Opportunity and How to Develop Your Career](https://blog.omatheusmesmo.dev/en/posts/first-it-job-and-how-to-develop-career-guide/)
 - [RESTful APIs with Quarkus: Use Jakarta REST and Quarkus REST for Spring Developers](https://blog.omatheusmesmo.dev/en/posts/quarkus-restful-apis-jakarta-rest-spring-developers-guide/)
