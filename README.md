@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**  
+  No more in-memory lists! Evolve your orders application with real persistence using Hibernate ORM with Panache in the Repository pattern. Dev Services, pagination, HQL queries and the transition from Spring Data JPA.
+
 - **[Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)**  
   What does a 3-second cold start cost you in production? SLO breaches on every scale-from-zero event and 19x more cloud spend on memory. I benchmarked a real Quarkus app in containers and the numbers make the case.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Committer Mission: A Journey into Open Source](https://blog.omatheusmesmo.dev/en/posts/committer-mission-open-source-journey/)**  
   How a mentorship session with Luiz Real made me plan to become a Quarkus committer in 12 months.
 
-- **[Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)**  
-  Top reasons why developers choose Linux: native tools, performance, security, and parity with production environments.
-
 <details>
-<summary>📂 <b>View all posts (16 more)</b></summary>
+<summary>📂 <b>View all posts (17 more)</b></summary>
 
+- [Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)
 - [Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)
 - [Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)
 - [Guide to the First IT Opportunity and How to Develop Your Career](https://blog.omatheusmesmo.dev/en/posts/first-it-job-and-how-to-develop-career-guide/)
