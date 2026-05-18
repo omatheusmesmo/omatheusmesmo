@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**  
+  Build an AI agent that calls real REST APIs as tools, without writing any orchestration logic. REST Client + @Tool = automatic tool. The LLM decides when to call, which to call, and with what arguments. Everything runs locally with Ollama via Dev Services, zero API key.
+
 - **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**  
   No more in-memory lists! Evolve your orders application with real persistence using Hibernate ORM with Panache in the Repository pattern. Dev Services, pagination, HQL queries and the transition from Spring Data JPA.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)**  
   Contributing to open source doesn't have to be scary. A true story of how interacting with the Quarkus community led to a contribution to a newly launched project in less than 48 hours.
 
-- **[Committer Mission: A Journey into Open Source](https://blog.omatheusmesmo.dev/en/posts/committer-mission-open-source-journey/)**  
-  How a mentorship session with Luiz Real made me plan to become a Quarkus committer in 12 months.
-
 <details>
-<summary>📂 <b>View all posts (17 more)</b></summary>
+<summary>📂 <b>View all posts (18 more)</b></summary>
 
+- [Committer Mission: A Journey into Open Source](https://blog.omatheusmesmo.dev/en/posts/committer-mission-open-source-journey/)
 - [Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)
 - [Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)
 - [Super Java Bros: How the Garbage Collector Clears the Stage in Java 25 (The Ultimate Guide)](https://blog.omatheusmesmo.dev/en/posts/super-java-bros-garbage-collector-java-25-ultimate-technical-guide/)
