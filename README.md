@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**  
+  Entities that save themselves! Refactor your orders application to the Active Record pattern with PanacheEntity, learn when to choose Repository vs. Active Record, and enter the reactive world with Hibernate Reactive and @WithTransaction.
+
 - **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**  
   Build an AI agent that calls real REST APIs as tools, without writing any orchestration logic. REST Client + @Tool = automatic tool. The LLM decides when to call, which to call, and with what arguments. Everything runs locally with Ollama via Dev Services, zero API key.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)**  
   I built the same AI app with LangChain4j, Spring AI, and Quarkus LangChain4j. One of them took 92 lines. The others took 192 and 180.
 
-- **[Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)**  
-  Contributing to open source doesn't have to be scary. A true story of how interacting with the Quarkus community led to a contribution to a newly launched project in less than 48 hours.
-
 <details>
-<summary>📂 <b>View all posts (18 more)</b></summary>
+<summary>📂 <b>View all posts (19 more)</b></summary>
 
+- [Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)
 - [Committer Mission: A Journey into Open Source](https://blog.omatheusmesmo.dev/en/posts/committer-mission-open-source-journey/)
 - [Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)
 - [Stop Writing Manual Validations: The Definitive Guide to Bean Validation and DTOs in Quarkus](https://blog.omatheusmesmo.dev/en/posts/data-validation-dto-quarkus-bean-validation/)
