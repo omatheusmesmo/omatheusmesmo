@@ -104,6 +104,9 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**  
+  LocalStack Community froze in March 2026 and now asks for an auth token. Floci is the no-strings-attached replacement: a free, MIT-licensed, Quarkus-native local AWS emulator. I test it for real: AWS CLI, a real Lambda, two ways of wiring a Quarkus app (Dev Services and Testcontainers), and a LocalStack migration.
+
 - **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**  
   Entities that save themselves! Refactor your orders application to the Active Record pattern with PanacheEntity, learn when to choose Repository vs. Active Record, and enter the reactive world with Hibernate Reactive and @WithTransaction.
 
@@ -116,12 +119,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 - **[Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)**  
   What does a 3-second cold start cost you in production? SLO breaches on every scale-from-zero event and 19x more cloud spend on memory. I benchmarked a real Quarkus app in containers and the numbers make the case.
 
-- **[Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)**  
-  I built the same AI app with LangChain4j, Spring AI, and Quarkus LangChain4j. One of them took 92 lines. The others took 192 and 180.
-
 <details>
-<summary>📂 <b>View all posts (19 more)</b></summary>
+<summary>📂 <b>View all posts (20 more)</b></summary>
 
+- [Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)
 - [Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)
 - [Committer Mission: A Journey into Open Source](https://blog.omatheusmesmo.dev/en/posts/committer-mission-open-source-journey/)
 - [Why Every Developer Should Use Linux](https://blog.omatheusmesmo.dev/en/posts/why-developer-should-use-linux/)
