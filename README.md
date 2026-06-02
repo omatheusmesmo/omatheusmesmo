@@ -3,11 +3,13 @@
 # 👋 Hey there, I'm Matheus Oliveira!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Software+Engineer+%7C+Java+%7C+Back-end" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=AWS+Certified+%7C+SQL+%7C+Spring+%7C+Quarkus" alt="Typing SVG" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Web+Development+%7C+Open-Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Backend+Software+Engineer+%7C+Open+Source+Contributor+%7C+AWS+Certified" alt="Typing SVG" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=I+help+professional+Java+developers+master+the+Quarkus+Way%2C" alt="Typing SVG" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=build+high-performing+apps%2C+and+become+highly+valued+engineers" alt="Typing SVG" />
+<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=1500&pause=3000&color=ED8B00&center=true&vCenter=true&width=900&height=40&lines=Soli+Deo+Gloria" alt="Typing SVG" />
 </div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omatheusmesmo)
@@ -20,81 +22,104 @@
 
 ## 💫 About Me
 
-I'm a software developer focused on building **high-performance, scalable, and cloud-ready applications**. With a solid foundation in the **Java** ecosystem and **Angular**, I'm dedicated to creating solutions that combine robust architecture with a seamless user experience.
+Most Java developers know Quarkus. Few understand the **Quarkus Way**.
 
-Currently, besides my work at **Act/BMW**, I'm an **active contributor in the Open Source community**, collaborating with major projects like **Jakarta EE**, **JNoSQL**, **Quarkus**, and **BuildCLI**. I also write about Java, cloud-native architectures, and open source on my [blog](https://blog.omatheusmesmo.dev/en/), sharing knowledge and experiences with the community.
+The Quarkus Way is more than using a framework. It is a shift in how you think about building Java applications: startup in milliseconds, minimal memory footprint, compile-time optimization, and developer joy through live reload. When you master this approach, you stop building Java apps the old way and start building software that is truly cloud native.
 
-My transition from music to technology brought me sharp analytical skills and a natural ability to communicate and work in teams — essential skills for agile environments. I'm always looking for challenging projects where I can apply technology to create real impact! 🚀
+I help professional Java developers make that shift.
+
+🔹 **Open Source Contributions Across the Quarkus Ecosystem**
+
+- **Quarkus LangChain4j** — Built the `@OnThinking` annotation for reasoning output handlers, added named embedding store support across six databases (pgvector, Chroma, Milvus, Neo4j, Weaviate, Qdrant), introduced the Oracle embedding store extension, implemented audio transcription for OpenAI, added support for additional model options in Ollama, and enabled named OIDC clients in OidcClientMcpAuthProvider.
+- **Quarkus Roq & Qute Web** — Enhanced the Roq Editor with SSH agent integration for secure git sync, and added GFM alert block support to the Qute Web markdown plugin.
+- **pt.quarkus.io** — As maintainer of the Brazilian Portuguese translation, I fixed broken guides after upstream Web Components migration, improved contributor onboarding with CONTRIBUTING.md, and translated key documentation.
+- **Quarkus Core** — Contributed Javadoc for build item documentation (ApplicationInfoBuildItem, AdditionalClassLoaderResourcesBuildItem).
+
+🔹 **Production Experience at Scale**
+
+AWS Certified and focused on cloud-native architectures. As a Software Engineer at **BMW Group TechWorks Brasil powered by act digital**, I build cloud-native applications with Quarkus, Angular, and AWS. My broader background includes Spring Boot, messaging (Kafka, RabbitMQ, SQS/SNS), and CI/CD automation.
+
+🔹 **From Music to Code**
+
+My path to software engineering was unconventional. Before code, I spent seven years as a music teacher, developing the analytical ear and collaborative discipline that now drive my work in agile teams. That background taught me something valuable: the best engineers, like the best musicians, are the ones who listen before they play.
+
+If you are building with Quarkus, contributing to the ecosystem, or looking for someone who lives the Quarkus Way, let's connect.
 
 📧 **Get in touch:** [hi@omatheusmesmo.dev](mailto:hi@omatheusmesmo.dev)
 
 ---
 ## 🌟 Open Source Contributions
 
-> I believe in the power of Open Source! Here are some external projects where I've left my mark:
+> I believe in the power of Open Source! Here are some projects where I've left my mark:
 
 ### 🔥 Main Contributions
 
 <table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/jakartaee/servlet">Jakarta Servlet</a> 🌐 
-        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/jakartaee/servlet?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/jakartaee/servlet?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-      </h4>
-      <p>Evolution of the <b>Jakarta Servlet Specification</b>.</p>
-      <p>
-        🔗 <b>My PRs:</b> <a href="https://github.com/jakartaee/servlet/pull/973">#973</a>, <a href="https://github.com/jakartaee/servlet/pull/974">#974</a> | 
-        <a href="https://github.com/jakartaee/servlet/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/quarkusio/quarkus">Quarkus</a> 🚀 
-        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/quarkusio/quarkus?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/quarkusio/quarkus?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-      </h4>
-      <p>Kubernetes-native Java framework. Core & Docs.</p>
-      <p>
-        🔗 <b>My PRs:</b> <a href="https://github.com/quarkusio/quarkus/pull/48430">#48430</a>, <a href="https://github.com/quarkusio/quarkus/pull/47374">#47374</a> | 
-        <a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/BuildCLI/BuildCLI">BuildCLI</a> 🛠️ 
-        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/BuildCLI/BuildCLI?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/BuildCLI/BuildCLI?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-      </h4>
-      <p><b>Maintainer</b>. Task automation tool for Java projects.</p>
-      <p>🔗 <b>My PRs:</b> <a href="https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo">51+ merged PRs</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/JNOSQL/jnosql.github.io">JNoSQL</a> 📊 
-        &nbsp; ⭐ <img src="https://img.shields.io/github/stars/JNOSQL/jnosql.github.io?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-        &nbsp; 🍴 <img src="https://img.shields.io/github/forks/JNOSQL/jnosql.github.io?style=flat&labelColor=0d1117&color=0d1117&label=" align="center" />
-      </h4>
-      <p>Jakarta NoSQL framework for scalable Java apps.</p>
-      <p>🔗 <b>My PRs:</b> <a href="https://github.com/JNOSQL/jnosql.github.io/pulls?q=is%3Apr+author%3Aomatheusmesmo">#85 & others</a></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+<h4>
+<a href="https://github.com/quarkiverse/quarkus-langchain4j">Quarkus LangChain4j</a> 🤖
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/quarkiverse/quarkus-langchain4j?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/quarkiverse/quarkus-langchain4j?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</h4>
+<p>AI integration for Quarkus with LangChain4j.</p>
+<p>
+🔗 <b>My PRs:</b> <a href="https://github.com/quarkiverse/quarkus-langchain4j/pull/2460">#2460</a>, <a href="https://github.com/quarkiverse/quarkus-langchain4j/pull/2494">#2494</a>, <a href="https://github.com/quarkiverse/quarkus-langchain4j/pull/2497">#2497</a>, <a href="https://github.com/quarkiverse/quarkus-langchain4j/pull/2516">#2516</a> |
+<a href="https://github.com/quarkiverse/quarkus-langchain4j/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4>
+<a href="https://github.com/quarkusio/quarkus">Quarkus</a> 🚀
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/quarkusio/quarkus?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/quarkusio/quarkus?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</h4>
+<p>Kubernetes-native Java framework. Core & Docs.</p>
+<p>
+🔗 <b>My PRs:</b> <a href="https://github.com/quarkusio/quarkus/pull/48430">#48430</a>, <a href="https://github.com/quarkusio/quarkus/pull/47374">#47374</a> |
+<a href="https://github.com/quarkusio/quarkus/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4>
+<a href="https://github.com/quarkiverse/quarkus-roq">Quarkus Roq</a> 🌐
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/quarkiverse/quarkus-roq?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/quarkiverse/quarkus-roq?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</h4>
+<p>Static site generator for Quarkus. Editor & Theme contributions.</p>
+<p>
+🔗 <b>My PRs:</b> <a href="https://github.com/quarkiverse/quarkus-roq/pull/933">#933</a>, <a href="https://github.com/quarkiverse/quarkus-roq/pull/830">#830</a> |
+<a href="https://github.com/quarkiverse/quarkus-roq/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4>
+<a href="https://github.com/quarkusio/pt.quarkus.io">pt.quarkus.io</a> 🇧🇷
+&nbsp; ⭐ <img src="https://img.shields.io/github/stars/quarkusio/pt.quarkus.io?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/quarkusio/pt.quarkus.io?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</h4>
+<p><b>Maintainer</b>. Brazilian Portuguese localization of the official Quarkus website.</p>
+<p>🔗 <b>My PRs:</b> <a href="https://github.com/quarkusio/pt.quarkus.io/pulls?q=is%3Apr+author%3Aomatheusmesmo">View all</a></p>
+</td>
+</tr>
 </table>
 
 ### 📦 Ecosystem & Other Contributions
 
-* **[pt.quarkus.io](https://github.com/quarkusio/pt.quarkus.io)** — Brazilian Portuguese localization of the official Quarkus website &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkusio/pt.quarkus.io/pulls?q=is%3Apr+author%3Aomatheusmesmo)
-* **[quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)** — Plugin for OpenAPI code generation &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkiverse/quarkus-openapi-generator/pulls?q=is%3Apr+author%3Aomatheusmesmo)
-* **[BuildCLI/website](https://github.com/BuildCLI/website)** — Official BuildCLI documentation &nbsp;&nbsp; 🔗 [My PRs](https://github.com/BuildCLI/website/pulls?q=is%3Apr+author%3Aomatheusmesmo)
-* **[timeless](https://github.com/wellwelwel/timeless)** — Personal financial organization app &nbsp;&nbsp; 🔗 [My PRs](https://github.com/wellwelwel/timeless/pulls?q=is%3Apr+author%3Aomatheusmesmo)
-* **[RPA_FINANC](https://github.com/pedroohrique/RPA_FINANC)** — Financial process automation &nbsp;&nbsp; 🔗 [My PRs](https://github.com/pedroohrique/RPA_FINANC/pulls?q=is%3Apr+author%3Aomatheusmesmo)
-* **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** — An initiative highlighting the human side of Brazilian Open Source through a fair impact-scoring system &nbsp;&nbsp; 🔗 [My PRs](https://github.com/wellwelwel/awesomeyou/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[quarkus-discord4j](https://github.com/quarkiverse/quarkus-discord4j)** — Discord bot integration for Quarkus &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkiverse/quarkus-discord4j/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[quarkus-qute-web](https://github.com/quarkiverse/quarkus-qute-web)** — Added GFM Alerts (admonition blocks) support to the Qute Web markdown plugin &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkiverse/quarkus-qute-web/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[LangChain4j](https://github.com/langchain4j/langchain4j)** — Upstream contributions to the LangChain4j framework &nbsp;&nbsp; 🔗 [My PRs](https://github.com/langchain4j/langchain4j/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[quarkus-openapi-generator](https://github.com/quarkiverse/quarkus-openapi-generator)** — Hot deployment of OpenAPI files in dev mode &nbsp;&nbsp; 🔗 [My PRs](https://github.com/quarkiverse/quarkus-openapi-generator/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[JNoSQL](https://github.com/JNOSQL/jnosql.github.io)** — Jakarta NoSQL framework for scalable Java apps &nbsp;&nbsp; 🔗 [My PRs](https://github.com/JNOSQL/jnosql.github.io/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[BuildCLI](https://github.com/BuildCLI/BuildCLI)** — Maintainer. Task automation tool for Java projects &nbsp;&nbsp; 🔗 [My PRs](https://github.com/BuildCLI/BuildCLI/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[Jakarta Servlet](https://github.com/jakartaee/servlet)** — Evolution of the Jakarta Servlet Specification &nbsp;&nbsp; 🔗 [My PRs](https://github.com/jakartaee/servlet/pulls?q=is%3Apr+author%3Aomatheusmesmo)
+* **[qlawkus](https://github.com/omatheusmesmo/qlawkus)** — OpenClaw clone built with Quarkus LangChain4j: autonomous engineering agent &nbsp;&nbsp; 🔗 [Repo](https://github.com/omatheusmesmo/qlawkus)
+* **[awesomeyou](https://github.com/wellwelwel/awesomeyou)** — Highlighting the human side of Brazilian Open Source &nbsp;&nbsp; 🔗 [My PRs](https://github.com/wellwelwel/awesomeyou/pulls?q=is%3Apr+author%3Aomatheusmesmo)
 
 <div align="center">
-  
+
 </div>
 
 ---
@@ -104,19 +129,19 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**  
+- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**
   LocalStack Community froze in March 2026 and now asks for an auth token. Floci is the no-strings-attached replacement: a free, MIT-licensed, Quarkus-native local AWS emulator. I test it for real: AWS CLI, a real Lambda, two ways of wiring a Quarkus app (Dev Services and Testcontainers), and a LocalStack migration.
 
-- **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**  
+- **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**
   Entities that save themselves! Refactor your orders application to the Active Record pattern with PanacheEntity, learn when to choose Repository vs. Active Record, and enter the reactive world with Hibernate Reactive and @WithTransaction.
 
-- **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**  
+- **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**
   Build an AI agent that calls real REST APIs as tools, without writing any orchestration logic. REST Client + @Tool = automatic tool. The LLM decides when to call, which to call, and with what arguments. Everything runs locally with Ollama via Dev Services, zero API key.
 
-- **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**  
+- **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**
   No more in-memory lists! Evolve your orders application with real persistence using Hibernate ORM with Panache in the Repository pattern. Dev Services, pagination, HQL queries and the transition from Spring Data JPA.
 
-- **[Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)**  
+- **[Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)**
   What does a 3-second cold start cost you in production? SLO breaches on every scale-from-zero event and 19x more cloud spend on memory. I benchmarked a real Quarkus app in containers and the numbers make the case.
 
 <details>
@@ -155,9 +180,11 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 > 🎯 Sharing insights and experiences at tech events and meetups.
 
-- **September, 2025** - The Developers Conference: *Open-Source: Standing out in your career through code (Mentorship)*
-- **March, 2025** - SouJava JUG: *BuildCLI: An Open-Source project worth knowing*
-- **March, 2025** - BuildCLI Discord: *New Member Onboarding Meeting*
+- **May, 2026** - [ConexãoDevSquad](https://www.linkedin.com/posts/isabelaguimaraespiazza_conexaodevsquad-comunidade-tecnologia-share-7462623766079012864-sVy3): *Tech Career Talk: How to Break Into the Industry*
+- **April, 2026** - [Brasil JUG](https://www.youtube.com/watch?v=5fV6ZJBXcLc): *Getting Started with Quarkus Framework*
+- **September, 2025** - [The Developers Conference](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Open-Source: Standing out in your career through code (Mentorship)*
+- **March, 2025** - [SouJava JUG](https://www.youtube.com/live/_4gnHAeJ1PU?si=JLpHsP3jwCmlnnCr): *BuildCLI: An Open-Source project worth knowing*
+- **March, 2025** - [BuildCLI Discord](https://www.linkedin.com/posts/omatheusmesmo_java-opensource-ai-share-7301926460481536000-mEpk): *New Member Onboarding Meeting*
 
 <div align="center">
 
@@ -185,7 +212,10 @@ My transition from music to technology brought me sharp analytical skills and a 
 
 Complete solution for smart shopping list management with custom categories, measurement units, and real-time collaboration.
 
-⭐ 5 stars | 🍴 1 fork
+<p>
+⭐ <img src="https://img.shields.io/github/stars/omatheusmesmo/ShoppMate?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/omatheusmesmo/ShoppMate?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</p>
 
 </td>
 <td width="50%">
@@ -202,7 +232,10 @@ Complete solution for smart shopping list management with custom categories, mea
 
 Cloud-native microservices architecture with Transactional Outbox, Debezium CDC, JWT Auth, and multi-database support. Monitoring with Grafana/Jaeger.
 
-⭐ 4 stars
+<p>
+⭐ <img src="https://img.shields.io/github/stars/omatheusmesmo/ecommerce-microservices?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/omatheusmesmo/ecommerce-microservices?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</p>
 
 </td>
 </tr>
@@ -220,22 +253,28 @@ Cloud-native microservices architecture with Transactional Outbox, Debezium CDC,
 
 NES emulator built from scratch in Java (WIP). Replicating NES hardware in software to run classic games on modern platforms.
 
-⭐ 3 stars
+<p>
+⭐ <img src="https://img.shields.io/github/stars/omatheusmesmo/SelfMat-NES-Emulator?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/omatheusmesmo/SelfMat-NES-Emulator?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</p>
 
 </td>
 <td width="50%">
 
-### ⚡ [BuildCLI](https://github.com/BuildCLI/BuildCLI)
-**Java project automation tool**
+### 🤖 [qlawkus](https://github.com/omatheusmesmo/qlawkus)
+**Autonomous Personal Engineering Agent**
 
 <p>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/CLI-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain4j-4695EB?style=flat-square&logo=quarkus&logoColor=white" />
 </p>
 
-CLI tool to automate tasks in Java projects. Active maintainer and contributor with 51+ merged PRs.
+OpenClaw clone built with Quarkus LangChain4j. An autonomous engineering agent that can plan, code, and execute tasks.
 
-⭐ 156 stars | 🍴 99 forks
+<p>
+⭐ <img src="https://img.shields.io/github/stars/omatheusmesmo/qlawkus?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+&nbsp; 🍴 <img src="https://img.shields.io/github/forks/omatheusmesmo/qlawkus?style=flat&labelColor=0d1117&color=0d1117" align="center" />
+</p>
 
 </td>
 </tr>
@@ -245,128 +284,4 @@ CLI tool to automate tasks in Java projects. Active maintainer and contributor w
 
 </div>
 
----
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <th width="33.3%">💻 Backend & Cloud Native</th>
-    <th width="33.3%">🎨 Frontend</th>
-    <th width="33.3%">🗄️ Databases</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jakarta_EE-002447?style=for-the-badge&logo=eclipse&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <th>☁️ Cloud & DevOps</th>
-    <th>📨 Messaging & Data</th>
-    <th>🔧 Tools & Others</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-      <img src="https://img.shields.io/badge/Debezium-FF6600?style=for-the-badge&logo=debezium&logoColor=white" />
-      <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-      <img src="https://img.shields.io/badge/Mage.ai-7629F9?style=for-the-badge&logo=mage&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=white" />
-      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zabbix-FF0000?style=for-the-badge&logo=zabbix&logoColor=white" />
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-      <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=omatheusmesmo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omatheusmesmo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=omatheusmesmo&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=omatheusmesmo&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-
-
-### ⚡ Fun Fact
-
-From music to code — I traded musical notes for lines of code and never looked back! 🎵➡️💻
-
----
-
-**💡 Open to collaboration and new challenges!**
-
-⭐ **Liked my work?** Consider starring my repositories!
-
-🤝 **Let's connect?** Feel free to follow me or reach out!
-
-</div>
