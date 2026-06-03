@@ -182,6 +182,7 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 - **May, 2026** - [ConexãoDevSquad](https://www.linkedin.com/posts/isabelaguimaraespiazza_conexaodevsquad-comunidade-tecnologia-share-7462623766079012864-sVy3): *Tech Career Talk: How to Break Into the Industry*
 - **April, 2026** - [Brasil JUG](https://www.youtube.com/watch?v=5fV6ZJBXcLc): *Getting Started with Quarkus Framework*
+- **April, 2026** - [Quarkus Club](https://www.youtube.com/live/j3949gFKMKk?si=AqEpGpbCsi3Zgov0): *Contribute to Quarkus - *Open your first PR*
 - **September, 2025** - [The Developers Conference](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Open-Source: Standing out in your career through code (Mentorship)*
 - **March, 2025** - [SouJava JUG](https://www.youtube.com/live/_4gnHAeJ1PU?si=JLpHsP3jwCmlnnCr): *BuildCLI: An Open-Source project worth knowing*
 - **March, 2025** - [BuildCLI Discord](https://www.linkedin.com/posts/omatheusmesmo_java-opensource-ai-share-7301926460481536000-mEpk): *New Member Onboarding Meeting*
