@@ -129,24 +129,25 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**
+- **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**  
+  Discover how to implement Event-Driven Architecture on OCI Always Free using OCI Notifications (ONS). ONS delivers 1M HTTPS notifications/month and 1000 emails/month for free.
+
+- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**  
   LocalStack Community froze in March 2026 and now asks for an auth token. Floci is the no-strings-attached replacement: a free, MIT-licensed, Quarkus-native local AWS emulator. I test it for real: AWS CLI, a real Lambda, two ways of wiring a Quarkus app (Dev Services and Testcontainers), and a LocalStack migration.
 
-- **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**
+- **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**  
   Entities that save themselves! Refactor your orders application to the Active Record pattern with PanacheEntity, learn when to choose Repository vs. Active Record, and enter the reactive world with Hibernate Reactive and @WithTransaction.
 
-- **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**
+- **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**  
   Build an AI agent that calls real REST APIs as tools, without writing any orchestration logic. REST Client + @Tool = automatic tool. The LLM decides when to call, which to call, and with what arguments. Everything runs locally with Ollama via Dev Services, zero API key.
 
-- **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**
+- **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**  
   No more in-memory lists! Evolve your orders application with real persistence using Hibernate ORM with Panache in the Repository pattern. Dev Services, pagination, HQL queries and the transition from Spring Data JPA.
 
-- **[Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)**
-  What does a 3-second cold start cost you in production? SLO breaches on every scale-from-zero event and 19x more cloud spend on memory. I benchmarked a real Quarkus app in containers and the numbers make the case.
-
 <details>
-<summary>📂 <b>View all posts (20 more)</b></summary>
+<summary>📂 <b>View all posts (21 more)</b></summary>
 
+- [Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)
 - [Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)
 - [Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)
 - [Committer Mission: A Journey into Open Source](https://blog.omatheusmesmo.dev/en/posts/committer-mission-open-source-journey/)
