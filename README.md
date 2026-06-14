@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**  
+  There is a plugin system hiding inside the JDK that most developers never use on purpose. Java SPI (ServiceLoader) lets you add behavior without touching the code that consumes it. I show it with real code from my NES emulator, kill the fragile META-INF file with Google AutoService, cover the modern JPMS variant, and finish with how Quarkus does the same idea at build time.
+
 - **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**  
   Discover how to implement Event-Driven Architecture on OCI Always Free using OCI Notifications (ONS). ONS delivers 1M HTTPS notifications/month and 1000 emails/month for free.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**  
   Build an AI agent that calls real REST APIs as tools, without writing any orchestration logic. REST Client + @Tool = automatic tool. The LLM decides when to call, which to call, and with what arguments. Everything runs locally with Ollama via Dev Services, zero API key.
 
-- **[Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)**  
-  No more in-memory lists! Evolve your orders application with real persistence using Hibernate ORM with Panache in the Repository pattern. Dev Services, pagination, HQL queries and the transition from Spring Data JPA.
-
 <details>
-<summary>📂 <b>View all posts (21 more)</b></summary>
+<summary>📂 <b>View all posts (22 more)</b></summary>
 
+- [Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)
 - [Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)
 - [Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)
 - [Why You Should Be Part of the Quarkus Community](https://blog.omatheusmesmo.dev/en/posts/why-you-should-be-part-of-quarkus-community/)
