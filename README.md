@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)**  
+  Decouple components with the Vert.x Event Bus. Pub/Sub vs Point-to-Point, asynchronous consumers with @ConsumeEvent, and why Spring has no native equivalent.
+
 - **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**  
   There is a plugin system hiding inside the JDK that most developers never use on purpose. Java SPI (ServiceLoader) lets you add behavior without touching the code that consumes it. I show it with real code from my NES emulator, kill the fragile META-INF file with Google AutoService, cover the modern JPMS variant, and finish with how Quarkus does the same idea at build time.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**  
   Entities that save themselves! Refactor your orders application to the Active Record pattern with PanacheEntity, learn when to choose Repository vs. Active Record, and enter the reactive world with Hibernate Reactive and @WithTransaction.
 
-- **[AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)**  
-  Build an AI agent that calls real REST APIs as tools, without writing any orchestration logic. REST Client + @Tool = automatic tool. The LLM decides when to call, which to call, and with what arguments. Everything runs locally with Ollama via Dev Services, zero API key.
-
 <details>
-<summary>📂 <b>View all posts (22 more)</b></summary>
+<summary>📂 <b>View all posts (23 more)</b></summary>
 
+- [AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)
 - [Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)
 - [Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)
 - [Java AI Libraries Compared: LangChain4j, Spring AI, and Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/java-ai-libraries-compared/)
