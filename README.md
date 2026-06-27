@@ -129,24 +129,22 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)**  
+- **[Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)**
   Decouple components with the Vert.x Event Bus. Pub/Sub vs Point-to-Point, asynchronous consumers with @ConsumeEvent, and why Spring has no native equivalent.
 
-- **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**  
+- **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**
   There is a plugin system hiding inside the JDK that most developers never use on purpose. Java SPI (ServiceLoader) lets you add behavior without touching the code that consumes it. I show it with real code from my NES emulator, kill the fragile META-INF file with Google AutoService, cover the modern JPMS variant, and finish with how Quarkus does the same idea at build time.
 
-- **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**  
+- **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**
   Discover how to implement Event-Driven Architecture on OCI Always Free using OCI Notifications (ONS). ONS delivers 1M HTTPS notifications/month and 1000 emails/month for free.
 
-- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**  
+- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**
   LocalStack Community froze in March 2026 and now asks for an auth token. Floci is the no-strings-attached replacement: a free, MIT-licensed, Quarkus-native local AWS emulator. I test it for real: AWS CLI, a real Lambda, two ways of wiring a Quarkus app (Dev Services and Testcontainers), and a LocalStack migration.
 
-- **[The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)**  
-  Entities that save themselves! Refactor your orders application to the Active Record pattern with PanacheEntity, learn when to choose Repository vs. Active Record, and enter the reactive world with Hibernate Reactive and @WithTransaction.
-
 <details>
-<summary>📂 <b>View all posts (23 more)</b></summary>
+<summary>📂 <b>View all posts (24 more)</b></summary>
 
+- [The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)
 - [AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)
 - [Persistence with Panache: From Spring Data JPA to the Repository Pattern in Quarkus](https://blog.omatheusmesmo.dev/en/posts/persistence-panache-repository-quarkus/)
 - [Quarkus Native on Knative: 5x Faster Cold Start, 20x Less Memory](https://blog.omatheusmesmo.dev/en/posts/quarkus-native-knative-cold-start/)
@@ -168,14 +166,25 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - [The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)
 - [The Java Renaissance: From J2EE to Cloud Native with Quarkus](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)
 - [Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)
-- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
 - [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/en/posts/slow-fast-index/)
+- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
 </details>
 
 <!-- BLOG-POST-LIST:END -->
-<div align="center">
 
-</div>
+---
+
+## 🎬 Latest Videos
+
+> Sharing knowledge through video content
+
+<!-- YOUTUBE-VIDEO-LIST:START -->
+
+- [RAG in Quarkus LangChain4j: From EasyRAG to Full Control](https://www.youtube.com/watch?v=Di52m2yExrE)
+- [Oracle AI Vector Search meets Quarkus LangChain4j](https://www.youtube.com/watch?v=-dug5R6H5Vw)
+- [Catch AI Thinking Before It Leaks: @OnThinking in Quarkus LangChain4j](https://www.youtube.com/watch?v=L5XmvpVQ-yM)
+
+<!-- YOUTUBE-VIDEO-LIST:END -->
 
 ---
 
@@ -185,7 +194,7 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 - **May, 2026** - [ConexãoDevSquad](https://www.linkedin.com/posts/isabelaguimaraespiazza_conexaodevsquad-comunidade-tecnologia-share-7462623766079012864-sVy3): *Tech Career Talk: How to Break Into the Industry*
 - **April, 2026** - [Brasil JUG](https://www.youtube.com/watch?v=5fV6ZJBXcLc): *Getting Started with Quarkus Framework*
-- **April, 2026** - [Quarkus Club](https://www.youtube.com/live/j3949gFKMKk?si=AqEpGpbCsi3Zgov0): *Contribute to Quarkus - *Open your first PR*
+- **April, 2026** - [Quarkus Club](https://www.youtube.com/live/j3949gFKMKk?si=AqEpGpbCsi3Zgov0): *Contribute to Quarkus* - *Open your first PR*
 - **September, 2025** - [The Developers Conference](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Open-Source: Standing out in your career through code (Mentorship)*
 - **March, 2025** - [SouJava JUG](https://www.youtube.com/live/_4gnHAeJ1PU?si=JLpHsP3jwCmlnnCr): *BuildCLI: An Open-Source project worth knowing*
 - **March, 2025** - [BuildCLI Discord](https://www.linkedin.com/posts/omatheusmesmo_java-opensource-ai-share-7301926460481536000-mEpk): *New Member Onboarding Meeting*
