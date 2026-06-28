@@ -129,19 +129,19 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[Internal Messaging in Quarkus: Signals, @Receives, and the New Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-signals-messaging/)**  
+- **[Internal Messaging in Quarkus: Signals, @Receives, and the New Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-signals-messaging/)**
   Decouple components with Quarkus Signals. Type-safe resolution, @Receives, pub/sub vs unicast vs request-reply, and why Spring has no native equivalent.
 
-- **[Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)**  
+- **[Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)**
   Decouple components with the Vert.x Event Bus. Pub/Sub vs Point-to-Point, asynchronous consumers with @ConsumeEvent, and why Spring has no native equivalent.
 
-- **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**  
+- **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**
   There is a plugin system hiding inside the JDK that most developers never use on purpose. Java SPI (ServiceLoader) lets you add behavior without touching the code that consumes it. I show it with real code from my NES emulator, kill the fragile META-INF file with Google AutoService, cover the modern JPMS variant, and finish with how Quarkus does the same idea at build time.
 
-- **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**  
+- **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**
   Discover how to implement Event-Driven Architecture on OCI Always Free using OCI Notifications (ONS). ONS delivers 1M HTTPS notifications/month and 1000 emails/month for free.
 
-- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**  
+- **[Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)**
   LocalStack Community froze in March 2026 and now asks for an auth token. Floci is the no-strings-attached replacement: a free, MIT-licensed, Quarkus-native local AWS emulator. I test it for real: AWS CLI, a real Lambda, two ways of wiring a Quarkus app (Dev Services and Testcontainers), and a LocalStack migration.
 
 <details>
@@ -188,6 +188,18 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - [Catch AI Thinking Before It Leaks: @OnThinking in Quarkus LangChain4j](https://www.youtube.com/watch?v=L5XmvpVQ-yM)
 
 <!-- YOUTUBE-VIDEO-LIST:END -->
+
+---
+
+## ☕ Matheus' Brew
+
+> A curated newsletter with the most interesting tech finds from around the internet.
+
+<!-- BREW-LIST:START -->
+
+
+
+<!-- BREW-LIST:END -->
 
 ---
 
