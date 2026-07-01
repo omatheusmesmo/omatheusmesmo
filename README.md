@@ -197,7 +197,8 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BREW-LIST:START -->
 
-
+- **[Edition #01: Project Valhalla, Context Engineering & the hyper Lesson](https://brew.omatheusmesmo.dev/brews/2026/07/01/)**  
+  Project Valhalla arrives in JDK 28 after 12 years. Anthropic redefines how we build AI agents. Cloudflare's six-week debug of a four-line hyper bug. Plus: GitHub Actions parallel steps and the First Law of Software Architecture.
 
 <!-- BREW-LIST:END -->
 
