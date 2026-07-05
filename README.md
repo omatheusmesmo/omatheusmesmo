@@ -183,6 +183,7 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
+- [How I Got Started in Open-Source](https://www.youtube.com/watch?v=WjhH5EZJAAc)
 - [RAG in Quarkus LangChain4j: From EasyRAG to Full Control](https://www.youtube.com/watch?v=Di52m2yExrE)
 - [Oracle AI Vector Search meets Quarkus LangChain4j](https://www.youtube.com/watch?v=-dug5R6H5Vw)
 - [Catch AI Thinking Before It Leaks: @OnThinking in Quarkus LangChain4j](https://www.youtube.com/watch?v=L5XmvpVQ-yM)
