@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Qlawkus: Build Personal AI Agents in Java with Quarkus](https://blog.omatheusmesmo.dev/en/posts/qlawkus-personal-ai-agents-quarkus/)**  
+  Introducing Qlawkus, a set of Quarkus extensions for building personal AI agents in Java: memory that's automatically injected, procedural skills, voice-enabled messaging, and composition via agent.yml.
+
 - **[How to Contribute to Open Source Without Writing Code](https://blog.omatheusmesmo.dev/en/posts/how-to-contribute-to-open-source-without-writing-code/)**  
   Think contributing to Open Source is just about opening PRs? Discover how to help the community through issues, discussions, articles, and donations, even without focusing on code.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**  
   There is a plugin system hiding inside the JDK that most developers never use on purpose. Java SPI (ServiceLoader) lets you add behavior without touching the code that consumes it. I show it with real code from my NES emulator, kill the fragile META-INF file with Google AutoService, cover the modern JPMS variant, and finish with how Quarkus does the same idea at build time.
 
-- **[Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)**  
-  Discover how to implement Event-Driven Architecture on OCI Always Free using OCI Notifications (ONS). ONS delivers 1M HTTPS notifications/month and 1000 emails/month for free.
-
 <details>
-<summary>📂 <b>View all posts (25 more)</b></summary>
+<summary>📂 <b>View all posts (26 more)</b></summary>
 
+- [Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)
 - [Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)
 - [The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)
 - [AI Agent Tools in Quarkus LangChain4j: When the REST Client Becomes the LLM's Right Hand](https://blog.omatheusmesmo.dev/en/posts/quarkus-langchain4j-ai-agent-tools/)
