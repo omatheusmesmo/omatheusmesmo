@@ -129,24 +129,29 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[Qlawkus: Build Personal AI Agents in Java with Quarkus](https://blog.omatheusmesmo.dev/en/posts/qlawkus-personal-ai-agents-quarkus/)**  
-  Introducing Qlawkus, a set of Quarkus extensions for building personal AI agents in Java: memory that's automatically injected, procedural skills, voice-enabled messaging, and composition via agent.yml.
+- **[Observability in Practice: Distributed Systems, Cost and Production](https://blog.omatheusmesmo.dev/en/posts/observability-distributed-production/)**  
+  Part 2 of 2. One browser click crossing five systems and four languages in a single trace, and what changes when that goes to production: tail sampling, cardinality, exemplars and SLOs.
 
-- **[How to Contribute to Open Source Without Writing Code](https://blog.omatheusmesmo.dev/en/posts/how-to-contribute-to-open-source-without-writing-code/)**  
-  Think contributing to Open Source is just about opening PRs? Discover how to help the community through issues, discussions, articles, and donations, even without focusing on code.
+- **[Observability in Practice: Why Instrument, and How Quarkus Makes It Cheap](https://blog.omatheusmesmo.dev/en/posts/observability-quarkus-opentelemetry/)**  
+  Part 1 of 2. Why observability became the market standard after OpenTelemetry graduated from the CNCF, the minimum vocabulary to follow along, and what Quarkus gives you without writing a line of code.
 
-- **[Internal Messaging in Quarkus: Signals, @Receives, and the New Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-signals-messaging/)**  
-  Decouple components with Quarkus Signals. Type-safe resolution, @Receives, pub/sub vs unicast vs request-reply, and why Spring has no native equivalent.
+- **[Kafka Integration in Quarkus: Reactive Messaging, @Incoming and @Outgoing](https://blog.omatheusmesmo.dev/en/posts/quarkus-kafka-reactive-messaging/)**  
+  Take messaging outside the application with SmallRye Reactive Messaging. Channels vs Topics, @Incoming, @Outgoing, Emitter, automatic JSON serialization, and Dev Services starting the broker without you installing anything.
 
-- **[Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)**  
-  Decouple components with the Vert.x Event Bus. Pub/Sub vs Point-to-Point, asynchronous consumers with @ConsumeEvent, and why Spring has no native equivalent.
+- **[Face to Face with Claude: I Got Pulled Onto the TDC Main Stage With No Warning](https://blog.omatheusmesmo.dev/en/posts/face-to-face-with-claude-tdc-floripa-main-stage/)**  
+  I almost didn't go. The panel topic changed, my speaking partner couldn't make it, and I hadn't budgeted for the trip. Hours after arriving, the founder of the largest tech conference in Latin America called me onto the main stage in front of 200+ people. This is the interview where I explain how.
 
-- **[Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)**  
-  There is a plugin system hiding inside the JDK that most developers never use on purpose. Java SPI (ServiceLoader) lets you add behavior without touching the code that consumes it. I show it with real code from my NES emulator, kill the fragile META-INF file with Google AutoService, cover the modern JPMS variant, and finish with how Quarkus does the same idea at build time.
+- **[Software Architecture Fundamentals: the 3 laws and 8 expectations every developer should know](https://blog.omatheusmesmo.dev/en/posts/fundamentals-of-software-architecture-chapter-1/)**  
+  Everything in software architecture is a trade-off. A deep dive into Chapter 1 of Fundamentals of Software Architecture: the 3 laws that govern every architectural decision and the 8 expectations of an architect.
 
 <details>
-<summary>📂 <b>View all posts (26 more)</b></summary>
+<summary>📂 <b>View all posts (31 more)</b></summary>
 
+- [Qlawkus: Build Personal AI Agents in Java with Quarkus](https://blog.omatheusmesmo.dev/en/posts/qlawkus-personal-ai-agents-quarkus/)
+- [How to Contribute to Open Source Without Writing Code](https://blog.omatheusmesmo.dev/en/posts/how-to-contribute-to-open-source-without-writing-code/)
+- [Internal Messaging in Quarkus: Signals, @Receives, and the New Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-signals-messaging/)
+- [Internal Messaging in Quarkus: Event Bus, ConsumeEvent, and the Publisher-Subscriber Pattern](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-bus-consumeevent/)
+- [Java SPI: The Built-in Superpower Every Developer Should Know](https://blog.omatheusmesmo.dev/en/posts/java-spi-serviceloader-power/)
 - [Event-Driven on the Free Tier: OCI Notifications (ONS) as an Event Bus](https://blog.omatheusmesmo.dev/en/posts/oci-notifications-event-driven-architecture-quarkus-always-free/)
 - [Floci: a Free, Drop-in LocalStack Alternative Built on Quarkus](https://blog.omatheusmesmo.dev/en/posts/floci-localstack-alternative/)
 - [The Active Record Pattern and Hibernate Reactive: Entities That Save Themselves in Quarkus](https://blog.omatheusmesmo.dev/en/posts/panache-active-record-hibernate-reactive/)
@@ -170,9 +175,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - [How to Start Contributing to Open Source: The Definitive Guide](https://blog.omatheusmesmo.dev/en/posts/definitive-guide-to-open-source-contribution/)
 - [The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)
 - [The Java Renaissance: From J2EE to Cloud Native with Quarkus](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)
+- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
 - [Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)
 - [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/en/posts/slow-fast-index/)
-- [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
 </details>
 
 <!-- BLOG-POST-LIST:END -->
