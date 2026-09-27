@@ -129,24 +129,28 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)**  
+  How ArC, the Quarkus CDI implementation, resolves dependency injection at build time: what a container is, the build phases, the generated classes and why injection errors break the build instead of the deploy.
+
+- **[How to Stand Out as a Software Engineer in the AI Era](https://blog.omatheusmesmo.dev/en/posts/how-to-stand-out-as-a-software-engineer-in-the-ai-era/)**  
+  How to stand out as a software engineer in 2026, in the AI era. Classic career advice, visibility through open source and community, and the skills AI doesn't replace.
+
+- **[Docs and Translation: The Easiest Way to Start Contributing to Open Source](https://blog.omatheusmesmo.dev/en/posts/docs-and-translation-easiest-way-to-start-open-source/)**  
+  Don't know where to start with Open Source? Discover why fixing and translating documentation is the easiest, fastest, and most underrated path to your first real contribution.
+
+- **[I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)**  
+  From the mentorship with Luiz Real to an ordinary Monday discovering 10th place in the worldwide quarkus-langchain4j contributor ranking: the story of 5 months of focus, talks, mentoring, becoming an Oracle ACE Associate, and the invite to become a triage maintainer of the project.
+
 - **[Virtual Threads: A Pocket Guide](https://blog.omatheusmesmo.dev/en/posts/virtual-threads-pocket-guide/)**  
-  What virtual threads solve, what they break, what happens when your database slows down, and why Java 25 made all of this far simpler than it was in 2023.
-
-- **[Using Zettelkasten with Agents](https://blog.omatheusmesmo.dev/en/posts/using-zettelkasten-with-agents/)**  
-  How structured note-taking with Zettelkasten became the memory layer for my AI agents, and how it saves me tokens, time and money.
-
-- **[Observability in Practice: Distributed Systems, Cost and Production](https://blog.omatheusmesmo.dev/en/posts/observability-distributed-production/)**  
-  Part 2 of 2. One browser click crossing five systems and four languages in a single trace, and what changes when that goes to production: tail sampling, cardinality, exemplars and SLOs.
-
-- **[Observability in Practice: Why Instrument, and How Quarkus Makes It Cheap](https://blog.omatheusmesmo.dev/en/posts/observability-quarkus-opentelemetry/)**  
-  Part 1 of 2. Why observability became the market standard after OpenTelemetry graduated from the CNCF, the minimum vocabulary to follow along, and what Quarkus gives you without writing a line of code.
-
-- **[Kafka Integration in Quarkus: Reactive Messaging, @Incoming and @Outgoing](https://blog.omatheusmesmo.dev/en/posts/quarkus-kafka-reactive-messaging/)**  
-  Take messaging outside the application with SmallRye Reactive Messaging. Channels vs Topics, @Incoming, @Outgoing, Emitter, automatic JSON serialization, and Dev Services starting the broker without you installing anything.
+  A practical guide to Java virtual threads: pinning and how to detect it, what happens to blocking calls against a degraded resource, the semaphore pattern, the Java 21 to 25 timeline, and the 2023 advice that is already dead.
 
 <details>
-<summary>📂 <b>View all posts (33 more)</b></summary>
+<summary>📂 <b>View all posts (37 more)</b></summary>
 
+- [Using Zettelkasten with Agents](https://blog.omatheusmesmo.dev/en/posts/using-zettelkasten-with-agents/)
+- [Observability in Practice: Distributed Systems, Cost and Production](https://blog.omatheusmesmo.dev/en/posts/observability-distributed-production/)
+- [Observability in Practice: Why Instrument, and How Quarkus Makes It Cheap](https://blog.omatheusmesmo.dev/en/posts/observability-quarkus-opentelemetry/)
+- [Kafka Integration in Quarkus: Reactive Messaging, @Incoming and @Outgoing](https://blog.omatheusmesmo.dev/en/posts/quarkus-kafka-reactive-messaging/)
 - [Face to Face with Claude: I Got Pulled Onto the TDC Main Stage With No Warning](https://blog.omatheusmesmo.dev/en/posts/face-to-face-with-claude-tdc-floripa-main-stage/)
 - [Software Architecture Fundamentals: the 3 laws and 8 expectations every developer should know](https://blog.omatheusmesmo.dev/en/posts/fundamentals-of-software-architecture-chapter-1/)
 - [Qlawkus: Build Personal AI Agents in Java with Quarkus](https://blog.omatheusmesmo.dev/en/posts/qlawkus-personal-ai-agents-quarkus/)
@@ -178,8 +182,8 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - [The First Contact and Quarkus Development Mode](https://blog.omatheusmesmo.dev/en/posts/first-contact-and-the-quarkus-development-mode/)
 - [The Java Renaissance: From J2EE to Cloud Native with Quarkus](https://blog.omatheusmesmo.dev/en/posts/the-java-renaissance-from-j2ee-to-cloud-native/)
 - [Unit Tests in Java - Introduction](https://blog.omatheusmesmo.dev/en/posts/unit-tests-java/)
-- [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/en/posts/slow-fast-index/)
 - [Why Every Programmer Should Know Vim/Neovim](https://blog.omatheusmesmo.dev/en/posts/vim-neovim/)
+- [Do you know about slow index and fast index?](https://blog.omatheusmesmo.dev/en/posts/slow-fast-index/)
 </details>
 
 <!-- BLOG-POST-LIST:END -->
@@ -192,6 +196,7 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- YOUTUBE-VIDEO-LIST:START -->
 
+- [A gift for you.](https://www.youtube.com/watch?v=m5_BLOTBbzE)
 - [How I Got Started in Open-Source](https://www.youtube.com/watch?v=WjhH5EZJAAc)
 - [RAG in Quarkus LangChain4j: From EasyRAG to Full Control](https://www.youtube.com/watch?v=Di52m2yExrE)
 - [Oracle AI Vector Search meets Quarkus LangChain4j](https://www.youtube.com/watch?v=-dug5R6H5Vw)
