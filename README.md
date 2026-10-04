@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Inside ArC, part 2: proxies, interceptors and the bean that vanished](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-client-proxy-interceptors-unused-beans/)**  
+  Client proxies and lazy instantiation, interceptors through subclasses, unused bean removal, ArC non-standard features and a checklist of CDI pitfalls in Quarkus, with real experiments.
+
 - **[Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)**  
   How ArC, the Quarkus CDI implementation, resolves dependency injection at build time: what a container is, the build phases, the generated classes and why injection errors break the build instead of the deploy.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)**  
   From the mentorship with Luiz Real to an ordinary Monday discovering 10th place in the worldwide quarkus-langchain4j contributor ranking: the story of 5 months of focus, talks, mentoring, becoming an Oracle ACE Associate, and the invite to become a triage maintainer of the project.
 
-- **[Virtual Threads: A Pocket Guide](https://blog.omatheusmesmo.dev/en/posts/virtual-threads-pocket-guide/)**  
-  A practical guide to Java virtual threads: pinning and how to detect it, what happens to blocking calls against a degraded resource, the semaphore pattern, the Java 21 to 25 timeline, and the 2023 advice that is already dead.
-
 <details>
-<summary>📂 <b>View all posts (37 more)</b></summary>
+<summary>📂 <b>View all posts (38 more)</b></summary>
 
+- [Virtual Threads: A Pocket Guide](https://blog.omatheusmesmo.dev/en/posts/virtual-threads-pocket-guide/)
 - [Using Zettelkasten with Agents](https://blog.omatheusmesmo.dev/en/posts/using-zettelkasten-with-agents/)
 - [Observability in Practice: Distributed Systems, Cost and Production](https://blog.omatheusmesmo.dev/en/posts/observability-distributed-production/)
 - [Observability in Practice: Why Instrument, and How Quarkus Makes It Cheap](https://blog.omatheusmesmo.dev/en/posts/observability-quarkus-opentelemetry/)
