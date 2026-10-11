@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)**  
+  Synthetic beans, SyntheticBeanBuildItem, CDI Lite, Portable Extensions and the basics of Quarkus extensions (build steps, build items and recorders), with real cases from Agroal and quarkus-langchain4j.
+
 - **[Inside ArC, part 2: proxies, interceptors and the bean that vanished](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-client-proxy-interceptors-unused-beans/)**  
   Client proxies and lazy instantiation, interceptors through subclasses, unused bean removal, ArC non-standard features and a checklist of CDI pitfalls in Quarkus, with real experiments.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[Docs and Translation: The Easiest Way to Start Contributing to Open Source](https://blog.omatheusmesmo.dev/en/posts/docs-and-translation-easiest-way-to-start-open-source/)**  
   Don't know where to start with Open Source? Discover why fixing and translating documentation is the easiest, fastest, and most underrated path to your first real contribution.
 
-- **[I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)**  
-  From the mentorship with Luiz Real to an ordinary Monday discovering 10th place in the worldwide quarkus-langchain4j contributor ranking: the story of 5 months of focus, talks, mentoring, becoming an Oracle ACE Associate, and the invite to become a triage maintainer of the project.
-
 <details>
-<summary>📂 <b>View all posts (38 more)</b></summary>
+<summary>📂 <b>View all posts (39 more)</b></summary>
 
+- [I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)
 - [Virtual Threads: A Pocket Guide](https://blog.omatheusmesmo.dev/en/posts/virtual-threads-pocket-guide/)
 - [Using Zettelkasten with Agents](https://blog.omatheusmesmo.dev/en/posts/using-zettelkasten-with-agents/)
 - [Observability in Practice: Distributed Systems, Cost and Production](https://blog.omatheusmesmo.dev/en/posts/observability-distributed-production/)
