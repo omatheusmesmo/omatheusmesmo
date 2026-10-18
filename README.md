@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)**  
+  How the event loop under Quarkus works, from Netty to Vert.x: the reactor pattern, how many event loops Quarkus starts and why, the golden rule and its arithmetic, the safety nets Quarkus adds, and why two blocking tasks can run one after the other.
+
 - **[Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)**  
   Synthetic beans, SyntheticBeanBuildItem, CDI Lite, Portable Extensions and the basics of Quarkus extensions (build steps, build items and recorders), with real cases from Agroal and quarkus-langchain4j.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[How to Stand Out as a Software Engineer in the AI Era](https://blog.omatheusmesmo.dev/en/posts/how-to-stand-out-as-a-software-engineer-in-the-ai-era/)**  
   How to stand out as a software engineer in 2026, in the AI era. Classic career advice, visibility through open source and community, and the skills AI doesn't replace.
 
-- **[Docs and Translation: The Easiest Way to Start Contributing to Open Source](https://blog.omatheusmesmo.dev/en/posts/docs-and-translation-easiest-way-to-start-open-source/)**  
-  Don't know where to start with Open Source? Discover why fixing and translating documentation is the easiest, fastest, and most underrated path to your first real contribution.
-
 <details>
-<summary>📂 <b>View all posts (39 more)</b></summary>
+<summary>📂 <b>View all posts (40 more)</b></summary>
 
+- [Docs and Translation: The Easiest Way to Start Contributing to Open Source](https://blog.omatheusmesmo.dev/en/posts/docs-and-translation-easiest-way-to-start-open-source/)
 - [I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)
 - [Virtual Threads: A Pocket Guide](https://blog.omatheusmesmo.dev/en/posts/virtual-threads-pocket-guide/)
 - [Using Zettelkasten with Agents](https://blog.omatheusmesmo.dev/en/posts/using-zettelkasten-with-agents/)
