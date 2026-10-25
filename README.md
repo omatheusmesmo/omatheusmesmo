@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Inside the Quarkus reactive core, part 2: who runs your code](https://blog.omatheusmesmo.dev/en/posts/quarkus-who-runs-your-code/)**  
+  How Quarkus REST, Reactive Messaging and the Scheduler choose between the event loop, a worker and a virtual thread: the signature rule decided at build time, the annotations that override it, the @Transactional rule the code dropped, @RunOnVirtualThread on a Uni, which thread runs your filters and where a ThreadLocal stops working.
+
 - **[Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)**  
   How the event loop under Quarkus works, from Netty to Vert.x: the reactor pattern, how many event loops Quarkus starts and why, the golden rule and its arithmetic, the safety nets Quarkus adds, and why two blocking tasks can run one after the other.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)**  
   How ArC, the Quarkus CDI implementation, resolves dependency injection at build time: what a container is, the build phases, the generated classes and why injection errors break the build instead of the deploy.
 
-- **[How to Stand Out as a Software Engineer in the AI Era](https://blog.omatheusmesmo.dev/en/posts/how-to-stand-out-as-a-software-engineer-in-the-ai-era/)**  
-  How to stand out as a software engineer in 2026, in the AI era. Classic career advice, visibility through open source and community, and the skills AI doesn't replace.
-
 <details>
-<summary>📂 <b>View all posts (40 more)</b></summary>
+<summary>📂 <b>View all posts (41 more)</b></summary>
 
+- [How to Stand Out as a Software Engineer in the AI Era](https://blog.omatheusmesmo.dev/en/posts/how-to-stand-out-as-a-software-engineer-in-the-ai-era/)
 - [Docs and Translation: The Easiest Way to Start Contributing to Open Source](https://blog.omatheusmesmo.dev/en/posts/docs-and-translation-easiest-way-to-start-open-source/)
 - [I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)
 - [Virtual Threads: A Pocket Guide](https://blog.omatheusmesmo.dev/en/posts/virtual-threads-pocket-guide/)
