@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Inside the Quarkus reactive core, part 3: a Uni is a recipe, not a result](https://blog.omatheusmesmo.dev/en/posts/mutiny-uni-recipe-not-result/)**  
+  Mutiny explained through tests: a Uni is a lazy recipe, the invoke that silently drops a Uni, retry as resubscription, why Mutiny does not schedule anything except with emitOn and runSubscriptionOn, why combine does not parallelize, failures as terminal events, demand and back-pressure, and the two TimeoutExceptions that look alike.
+
 - **[Inside the Quarkus reactive core, part 2: who runs your code](https://blog.omatheusmesmo.dev/en/posts/quarkus-who-runs-your-code/)**  
   How Quarkus REST, Reactive Messaging and the Scheduler choose between the event loop, a worker and a virtual thread: the signature rule decided at build time, the annotations that override it, the @Transactional rule the code dropped, @RunOnVirtualThread on a Uni, which thread runs your filters and where a ThreadLocal stops working.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[Inside ArC, part 2: proxies, interceptors and the bean that vanished](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-client-proxy-interceptors-unused-beans/)**  
   Client proxies and lazy instantiation, interceptors through subclasses, unused bean removal, ArC non-standard features and a checklist of CDI pitfalls in Quarkus, with real experiments.
 
-- **[Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)**  
-  How ArC, the Quarkus CDI implementation, resolves dependency injection at build time: what a container is, the build phases, the generated classes and why injection errors break the build instead of the deploy.
-
 <details>
-<summary>📂 <b>View all posts (41 more)</b></summary>
+<summary>📂 <b>View all posts (42 more)</b></summary>
 
+- [Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)
 - [How to Stand Out as a Software Engineer in the AI Era](https://blog.omatheusmesmo.dev/en/posts/how-to-stand-out-as-a-software-engineer-in-the-ai-era/)
 - [Docs and Translation: The Easiest Way to Start Contributing to Open Source](https://blog.omatheusmesmo.dev/en/posts/docs-and-translation-easiest-way-to-start-open-source/)
 - [I Did It! Top 10 Contributor on Quarkus LangChain4j](https://blog.omatheusmesmo.dev/en/posts/top-10-contributor-quarkus-langchain4j/)
