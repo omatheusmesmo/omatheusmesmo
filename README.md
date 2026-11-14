@@ -229,21 +229,21 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 > 🎯 Sharing insights and experiences at tech events and meetups.
 
-- **October, 2026** - [Brasil JUG](https://www.youtube.com/live/L6jYwUyl2ls): *Group Mentorship: How to Stand Out as a Dev in the Age of AI*
 - **October, 2026** - [SouJava JUG](https://www.youtube.com/watch?v=_N88_NQJ-ng): *From Nobody to Go-To: why you should contribute to open source*
 - **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Quarkus LangChain4j Workshop: Integrating Java Applications with LLMs*
-- **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
-- **September, 2026** - [Java Noroeste](https://www.youtube.com/live/BHDU1PJ7y7Y): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
+- **August, 2026** - [Java Day Rio Preto](https://javaday.vercel.app/): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
+- **April, 2026** - [Brasil JUG](https://www.youtube.com/watch?v=5fV6ZJBXcLc): *Getting Started with Quarkus Framework*
+- **April, 2026** - [Quarkus Club](https://www.youtube.com/live/j3949gFKMKk?si=AqEpGpbCsi3Zgov0): *Contribute to Quarkus* - *Open your first PR*
 
 <details>
 <summary>📂 <b>View all talks (9 more)</b></summary>
 
-- **August, 2026** - [Java Day Rio Preto](https://javaday.vercel.app/): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
+- **October, 2026** - [Brasil JUG](https://www.youtube.com/live/L6jYwUyl2ls): *Group Mentorship: How to Stand Out as a Dev in the Age of AI*
+- **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
+- **September, 2026** - [Java Noroeste](https://www.youtube.com/live/BHDU1PJ7y7Y): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
 - **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *International Careers for Devs: From the First PR in Global Projects to the Phases of the Game (Panel)*
 - **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
 - **May, 2026** - [ConexãoDevSquad](https://www.linkedin.com/posts/isabelaguimaraespiazza_conexaodevsquad-comunidade-tecnologia-share-7462623766079012864-sVy3): *Tech Career Talk: How to Break Into the Industry*
-- **April, 2026** - [Brasil JUG](https://www.youtube.com/watch?v=5fV6ZJBXcLc): *Getting Started with Quarkus Framework*
-- **April, 2026** - [Quarkus Club](https://www.youtube.com/live/j3949gFKMKk?si=AqEpGpbCsi3Zgov0): *Contribute to Quarkus* - *Open your first PR*
 - **September, 2025** - [The Developers Conference](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Open-Source: Standing out in your career through code (Mentorship)*
 - **March, 2025** - [SouJava JUG](https://www.youtube.com/live/_4gnHAeJ1PU?si=JLpHsP3jwCmlnnCr): *BuildCLI: An Open-Source project worth knowing*
 - **March, 2025** - [BuildCLI Discord](https://www.linkedin.com/posts/omatheusmesmo_java-opensource-ai-share-7301926460481536000-mEpk): *New Member Onboarding Meeting*
