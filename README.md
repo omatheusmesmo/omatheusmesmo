@@ -129,19 +129,19 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
-- **[Inside the Quarkus reactive core, part 4: reactive or virtual threads in Quarkus 4](https://blog.omatheusmesmo.dev/en/posts/quarkus-4-reactive-or-virtual-threads/)**  
+- **[Inside the Quarkus reactive core, part 4: reactive or virtual threads in Quarkus 4](https://blog.omatheusmesmo.dev/en/posts/quarkus-4-reactive-or-virtual-threads/)**
   Reactive or virtual threads in Quarkus 4: why event loops are not carriers, what Java 21, Jackson 3, Vert.x 5 and Netty 4.2 change, Little's law applied to the Quarkus default pools, an open-model benchmark of the three models on Quarkus 4.0.0.Beta1 and 3.40.1, why reactive and virtual threads collapse past the REST Client connection pool while workers hold, a pinning audit per integration and a decision table.
 
-- **[Inside the Quarkus reactive core, part 3: a Uni is a recipe, not a result](https://blog.omatheusmesmo.dev/en/posts/mutiny-uni-recipe-not-result/)**  
+- **[Inside the Quarkus reactive core, part 3: a Uni is a recipe, not a result](https://blog.omatheusmesmo.dev/en/posts/mutiny-uni-recipe-not-result/)**
   Mutiny explained through tests: a Uni is a lazy recipe, the invoke that silently drops a Uni, retry as resubscription, why Mutiny does not schedule anything except with emitOn and runSubscriptionOn, why combine does not parallelize, failures as terminal events, demand and back-pressure, and the two TimeoutExceptions that look alike.
 
-- **[Inside the Quarkus reactive core, part 2: who runs your code](https://blog.omatheusmesmo.dev/en/posts/quarkus-who-runs-your-code/)**  
+- **[Inside the Quarkus reactive core, part 2: who runs your code](https://blog.omatheusmesmo.dev/en/posts/quarkus-who-runs-your-code/)**
   How Quarkus REST, Reactive Messaging and the Scheduler choose between the event loop, a worker and a virtual thread: the signature rule decided at build time, the annotations that override it, the @Transactional rule the code dropped, @RunOnVirtualThread on a Uni, which thread runs your filters and where a ThreadLocal stops working.
 
-- **[Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)**  
+- **[Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)**
   How the event loop under Quarkus works, from Netty to Vert.x: the reactor pattern, how many event loops Quarkus starts and why, the golden rule and its arithmetic, the safety nets Quarkus adds, and why two blocking tasks can run one after the other.
 
-- **[Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)**  
+- **[Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)**
   Synthetic beans, SyntheticBeanBuildItem, CDI Lite, Portable Extensions and the basics of Quarkus extensions (build steps, build items and recorders), with real cases from Agroal and quarkus-langchain4j.
 
 <details>
@@ -234,6 +234,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Quarkus LangChain4j Workshop: Integrating Java Applications with LLMs*
 - **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
 - **September, 2026** - [Java Noroeste](https://www.youtube.com/live/BHDU1PJ7y7Y): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
+
+<details>
+<summary>📂 <b>View all talks (9 more)</b></summary>
+
 - **August, 2026** - [Java Day Rio Preto](https://javaday.vercel.app/): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
 - **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *International Careers for Devs: From the First PR in Global Projects to the Phases of the Game (Panel)*
 - **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
@@ -243,6 +247,8 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **September, 2025** - [The Developers Conference](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Open-Source: Standing out in your career through code (Mentorship)*
 - **March, 2025** - [SouJava JUG](https://www.youtube.com/live/_4gnHAeJ1PU?si=JLpHsP3jwCmlnnCr): *BuildCLI: An Open-Source project worth knowing*
 - **March, 2025** - [BuildCLI Discord](https://www.linkedin.com/posts/omatheusmesmo_java-opensource-ai-share-7301926460481536000-mEpk): *New Member Onboarding Meeting*
+
+</details>
 
 <div align="center">
 
