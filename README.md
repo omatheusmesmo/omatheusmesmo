@@ -218,7 +218,7 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BREW-LIST:START -->
 
-- **[Edition #01: Project Valhalla, Context Engineering & the hyper Lesson](https://brew.omatheusmesmo.dev/brews/2026/07/01/)**  
+- **[Edition #01: Project Valhalla, Context Engineering & the hyper Lesson](https://brew.omatheusmesmo.dev/brews/2026/07/01/)**
   Project Valhalla arrives in JDK 28 after 12 years. Anthropic redefines how we build AI agents. Cloudflare's six-week debug of a four-line hyper bug. Plus: GitHub Actions parallel steps and the First Law of Software Architecture.
 
 <!-- BREW-LIST:END -->
@@ -229,6 +229,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 > 🎯 Sharing insights and experiences at tech events and meetups.
 
+- **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Quarkus LangChain4j Workshop: Integrating Java Applications with LLMs*
+- **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
+- **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *International Careers for Devs: From the First PR in Global Projects to the Phases of the Game (Panel)*
+- **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
 - **May, 2026** - [ConexãoDevSquad](https://www.linkedin.com/posts/isabelaguimaraespiazza_conexaodevsquad-comunidade-tecnologia-share-7462623766079012864-sVy3): *Tech Career Talk: How to Break Into the Industry*
 - **April, 2026** - [Brasil JUG](https://www.youtube.com/watch?v=5fV6ZJBXcLc): *Getting Started with Quarkus Framework*
 - **April, 2026** - [Quarkus Club](https://www.youtube.com/live/j3949gFKMKk?si=AqEpGpbCsi3Zgov0): *Contribute to Quarkus* - *Open your first PR*
