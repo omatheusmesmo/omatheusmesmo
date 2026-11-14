@@ -232,6 +232,7 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **October, 2026** - [SouJava JUG](https://www.youtube.com/watch?v=_N88_NQJ-ng): *From Nobody to Go-To: why you should contribute to open source*
 - **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Quarkus LangChain4j Workshop: Integrating Java Applications with LLMs*
 - **September, 2026** - [The Developers Conference (São Paulo)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
+- **September, 2026** - [Java Noroeste](https://www.youtube.com/live/BHDU1PJ7y7Y): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
 - **August, 2026** - [Java Day Rio Preto](https://javaday.vercel.app/): *The Power of Focus: Growing through Open Source and Community* (with Luiz Real)
 - **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *International Careers for Devs: From the First PR in Global Projects to the Phases of the Game (Panel)*
 - **July, 2026** - [The Developers Conference (Florianópolis)](https://thedevconf.com/palestrante/MatheusOliveiradaSilva): *Level Up Your Career with Open-Source: From User to Builder (Mentorship)*
