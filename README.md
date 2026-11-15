@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[IBM Bob and the bet on repeatable modernization](https://blog.omatheusmesmo.dev/en/posts/ibm-bob-code-agent-modernization/)**  
+  IBM Bob in 2026: the V2 architecture, the Agent, Plan and Ask modes, model routing, the Premium Packages for Java, IBM i and IBM Z, Bobcoin pricing, how it compares with Claude Code and Codex, and how to adopt the agent in a team with permissions and cost control.
+
 - **[Inside the Quarkus reactive core, part 4: reactive or virtual threads in Quarkus 4](https://blog.omatheusmesmo.dev/en/posts/quarkus-4-reactive-or-virtual-threads/)**  
   Reactive or virtual threads in Quarkus 4: why event loops are not carriers, what Java 21, Jackson 3, Vert.x 5 and Netty 4.2 change, Little's law applied to the Quarkus default pools, an open-model benchmark of the three models on Quarkus 4.0.0.Beta1 and 3.40.1, why reactive and virtual threads collapse past the REST Client connection pool while workers hold, a pinning audit per integration and a decision table.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)**  
   How the event loop under Quarkus works, from Netty to Vert.x: the reactor pattern, how many event loops Quarkus starts and why, the golden rule and its arithmetic, the safety nets Quarkus adds, and why two blocking tasks can run one after the other.
 
-- **[Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)**  
-  Synthetic beans, SyntheticBeanBuildItem, CDI Lite, Portable Extensions and the basics of Quarkus extensions (build steps, build items and recorders), with real cases from Agroal and quarkus-langchain4j.
-
 <details>
-<summary>📂 <b>View all posts (43 more)</b></summary>
+<summary>📂 <b>View all posts (44 more)</b></summary>
 
+- [Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)
 - [Inside ArC, part 2: proxies, interceptors and the bean that vanished](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-client-proxy-interceptors-unused-beans/)
 - [Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)
 - [How to Stand Out as a Software Engineer in the AI Era](https://blog.omatheusmesmo.dev/en/posts/how-to-stand-out-as-a-software-engineer-in-the-ai-era/)
