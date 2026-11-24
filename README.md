@@ -129,6 +129,9 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 
 <!-- BLOG-POST-LIST:START -->
 
+- **[Oracle Cloud on localhost with floci-oci](https://blog.omatheusmesmo.dev/en/posts/floci-oci-oracle-cloud-localhost/)**  
+  Hands-on guide to floci-oci 0.7.0, the free open source Oracle Cloud Infrastructure emulator. Build a Quarkus expense receipts service on OCI Database with PostgreSQL (password from a Vault secret, TLS verify-full), Object Storage pre-authenticated uploads, Queue with a dead-letter queue and KMS envelope encryption. Test it with Testcontainers, drive it from the unmodified OCI CLI and provision it with Terraform and OpenTofu, with a zero drift plan.
+
 - **[IBM Bob and the bet on repeatable modernization](https://blog.omatheusmesmo.dev/en/posts/ibm-bob-code-agent-modernization/)**  
   IBM Bob in 2026: the V2 architecture, the Agent, Plan and Ask modes, model routing, the Premium Packages for Java, IBM i and IBM Z, Bobcoin pricing, how it compares with Claude Code and Codex, and how to adopt the agent in a team with permissions and cost control.
 
@@ -141,12 +144,10 @@ If you are building with Quarkus, contributing to the ecosystem, or looking for 
 - **[Inside the Quarkus reactive core, part 2: who runs your code](https://blog.omatheusmesmo.dev/en/posts/quarkus-who-runs-your-code/)**  
   How Quarkus REST, Reactive Messaging and the Scheduler choose between the event loop, a worker and a virtual thread: the signature rule decided at build time, the annotations that override it, the @Transactional rule the code dropped, @RunOnVirtualThread on a Uni, which thread runs your filters and where a ThreadLocal stops working.
 
-- **[Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)**  
-  How the event loop under Quarkus works, from Netty to Vert.x: the reactor pattern, how many event loops Quarkus starts and why, the golden rule and its arithmetic, the safety nets Quarkus adds, and why two blocking tasks can run one after the other.
-
 <details>
-<summary>📂 <b>View all posts (44 more)</b></summary>
+<summary>📂 <b>View all posts (45 more)</b></summary>
 
+- [Inside the Quarkus reactive core, part 1: the event loop from the ground up](https://blog.omatheusmesmo.dev/en/posts/quarkus-event-loop-from-the-ground-up/)
 - [Inside ArC, part 3: the beans nobody wrote](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-synthetic-beans-extensions/)
 - [Inside ArC, part 2: proxies, interceptors and the bean that vanished](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-client-proxy-interceptors-unused-beans/)
 - [Inside ArC, part 1: the Quarkus CDI that runs before your code does](https://blog.omatheusmesmo.dev/en/posts/quarkus-arc-cdi-at-build-time/)
